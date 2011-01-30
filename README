@@ -11,12 +11,12 @@ OR
 
 <a class="social_buttons sb_48 sb_facebook"><span>Button text here</span></a>
 
-3/ You can use any parent element you like (button, p, a, whatever), just remember the nested span (and this must be a span element).
-4/ Include the class .social_buttons
-5/ Specify the small or large size of button by including either .sb_24 or .sb_48
-6/ Specify the type of button by including either .sb_facebook, .sb_linkedin, .sb_twitter or .sb_google
+3/ You can use any parent element you like (button, p, a, whatever), just remember the nested span (and this must be a span element)
+4/ Include the class ".social_buttons"
+5/ Specify the small or large size of button by including either ".sb_24" or ".sb_48"
+6/ Specify the type of button by including either ".sb_facebook", ".sb_linkedin", ".sb_twitter" or ".sb_google"
 7/ Include whatever button text you like
-8/ Any additional styles you need should be applied to the .social_buttons class for example:
+8/ Any additional styles you need should be applied to the ".social_buttons" class (the parent element), for example:
 
 #my_landing_page .social_buttons {
 	clear: both;
@@ -24,4 +24,5 @@ OR
 	width: 200px
 }
 
-9/ Done! Happy days.
+9/ Best to avoid changing font-size, line-height, height and padding right now until I swap the pngs for vector icons (then everything can be %).
+10/ Done! Happy days.
