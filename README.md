@@ -9,9 +9,20 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - buttons and icons supported
 - no raster images (sweet)
 - works splendidly on any browser supporting @font-face
-- CSS3 degrades gracefully in <IE8 etc.
+- CSS3 degrades gracefully in IE8 and below etc.
 
 ## How to use these buttons:
+
+<button class='zocial facebook'>
+	<span>Button label here</span>
+</button>
+
+- Parent element can be any element
+- Must contain child 'span' element
+- Add class of '.zocial' to parent element
+- Add class for name of service e.g. '.dropbox', '.twitter', '.github'
+- Done :-)
+
 Check out [zocial.smcllns.com](http://zocial.smcllns.com) for demo and code examples.
 
 Problems or questions to [@smcllns](http://twitter.com/smcllns)
