@@ -1,35 +1,43 @@
 <html>
 <head>
-	<title>Zocial Sample</title>
+	<title>Zocial CSS3 Buttons</title>
 	<link rel="stylesheet" type="text/css" href="css/zocial.css" />
+	<link href='http://fonts.googleapis.com/css?family=Pompiere|Passion+One|Boogaloo|Raleway:100' rel='stylesheet' type='text/css'>
+	
 	<style>
 		html {
 			background: #f0f0eb;
 			font-family: "Helvetica Neue", sans-serif;
 		}
+		h2, p {
+			font-family: "Pompiere";
+		}
 		body {
+			background: #FFF;
+			-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.5);
+			-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.5);
+			box-shadow: 0 1px 1px rgba(0,0,0,0.5);
+			-webkit-border-radius: 0 0 2px 2px;
+			-moz-border-radius: 0 0 2px 2px;
+			border-radius: 0 0 2px 2px;
 			margin: 0 auto 2em;
 			padding: 2em 1em;
 			width: 600px;
-			background: #FFF;
-			box-shadow: 0 1px 1px rgba(0,0,0,0.5);
 		}
 		body .zocial {
 			margin: 8px 4px;
 			font-size: 16px;
 		}
 		h2 {
-			font-weight: normal;
 			font-size: 17px;
+			font-weight: normal;
 			padding: 1em 0 0.75em;
 			border-bottom: 1px solid #eee;
-			color: #AAA;
 		}
 	</style>
 </head>
 
 <body>
-	<h1>Zocial Buttons Sample</h1>
 	<h2>The Popular Kids</h2>
 	<a href="#" class="zocial facebook"><span>Sign in with Facebook</span></a>
 	<a href="#" class="zocial googleplus"><span>Sign in with Google+</span></a>
@@ -93,7 +101,7 @@
 	<h2>The He's-My-Son-So-Of-Course-He's-Here Kid</h2>
 	<a href="#" class="zocial eventasaurus"><span>Sign up for Eventasaurus</span></a>
 
-	<h2>Icons</h2>
+	<h2>Icon versions of the above</h2>
 	<a href="#" class="zocial icon facebook"><span>Sign in with Facebook</span></a>
 	<a href="#" class="zocial icon googleplus"><span>Sign in with Google+</span></a>
 	<a href="#" class="zocial icon twitter"><span>Sign in with Twitter</span></a>
@@ -145,6 +153,9 @@
 	<a href="#" class="zocial icon rss"><span>Subscribe to RSS</span></a>
 	
 	<p>See a demo and more sample code at <a href="http://zocial.smcllns.com">zocial.smcllns.com</a> &mdash; ask questions to <a href="http://twitter.com/smcllns">@smcllns</a></p>
+	
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://zocial.smcllns.com" data-via="smcllns">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	
 </body>
 </html>
