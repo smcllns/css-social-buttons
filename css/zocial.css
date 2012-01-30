@@ -3,7 +3,17 @@
 /* You are free to extend this work without permissions from the author (just do so tastefully eh?) */
 /* Enjoy */
 
-/* If you want to change the size of these buttons, tweak font-size and line-heights of the .zocial class */
+/*Vector Icons*/
+@font-face {
+	font-family: 'zocial';
+	src: url('../type/zocial-regular-webfont.eot');
+	src: url('../type/zocial-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../type/zocial-regular-webfont.woff') format('woff'),
+	url('../type/zocial-regular-webfont.ttf') format('truetype'),
+	url('../type/zocial-regular-webfont.svg#ZocialRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 /*Button Structure*/
 .zocial {
@@ -33,7 +43,7 @@
 	content: "";
 	display: block;
 	float: left;
-	font-family: "zocial";
+	font-family: "zocial" !important;
 	font-size: 1.25em;
 	font-style: normal;
 	font-weight: normal;
@@ -225,18 +235,6 @@
 .zocial.viadeo {background: #FFF;  color: #000 !important;}
 .zocial.pinterest {background: #C91618;}
 .zocial.podcast {background: #9365CE;}
-
-/*Vector Icons*/
-@font-face {
-	font-family: 'zocial';
-	src: url('../type/zocial-regular-webfont.eot');
-	src: url('../type/zocial-regular-webfont.eot?#iefix') format('embedded-opentype'),
-	url('../type/zocial-regular-webfont.woff') format('woff'),
-	url('../type/zocial-regular-webfont.ttf') format('truetype'),
-	url('../type/zocial-regular-webfont.svg#ZocialRegular') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 /*Misc*/
 button::-moz-focus-inner {
