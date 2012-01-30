@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Zocial CSS3 Buttons</title>
 	<link rel="stylesheet" type="text/css" href="css/zocial.css" />
-	<link href='http://fonts.googleapis.com/css?family=Pompiere|Passion+One|Boogaloo|Raleway:100' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
 	
 	<style>
 		html {
@@ -10,7 +11,7 @@
 			font-family: "Helvetica Neue", sans-serif;
 		}
 		h2, p {
-			font-family: "Pompiere";
+			font-family: "Pompiere","Helvetica Neue", sans-serif;
 		}
 		body {
 			background: #FFF;
@@ -35,6 +36,9 @@
 			border-bottom: 1px solid #eee;
 		}
 	</style>
+	
+	<!--[if IE]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	
 </head>
 
 <body>
@@ -100,6 +104,12 @@
 	
 	<h2>The He's-My-Son-So-Of-Course-He's-Here Kid</h2>
 	<a href="#" class="zocial eventasaurus"><span>Sign up for Eventasaurus</span></a>
+	
+	<h2>The By-Popular-Demand Kids</h2>
+	<a href="#" class="zocial weibo"><span>Follow me on Weibo</span></a>
+	<a href="#" class="zocial plurk"><span>Follow me on Plurk</span></a>
+	<a href="#" class="zocial grooveshark"><span>Follow me on Grooveshark</span></a>
+	
 
 	<h2>Icon versions of the above</h2>
 	<a href="#" class="zocial icon facebook"><span>Sign in with Facebook</span></a>
@@ -152,10 +162,27 @@
 	<a href="#" class="zocial icon creativecommons"><span>View Creative Commons Licence</span></a>
 	<a href="#" class="zocial icon rss"><span>Subscribe to RSS</span></a>
 	
-	<p>See a demo and more sample code at <a href="http://zocial.smcllns.com">zocial.smcllns.com</a> &mdash; ask questions to <a href="http://twitter.com/smcllns">@smcllns</a></p>
+	<p>See a demo and code at <a href="http://zocial.smcllns.com">zocial.smcllns.com</a> &mdash; ask questions to <a href="http://twitter.com/smcllns">@smcllns</a></p>
 	
-	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://zocial.smcllns.com" data-via="smcllns">Tweet</a>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://zocial.smcllns.com/sample.html" data-via="smcllns">Tweet</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25061452-1']);
+	  _gaq.push(['_setDomainName', 'smcllns.com']);
+	  _gaq.push(['_setAllowHash', 'false']);
+	  _gaq.push(['_trackPageview']);
+	  _gaq.push(['_trackPageLoadTime']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
 	
 </body>
 </html>
