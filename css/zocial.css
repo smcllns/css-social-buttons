@@ -45,11 +45,13 @@
 	float: left;
 	font-family: "zocial" !important;
 	font-size: 1.25em;
-	font-style: normal;
-	font-weight: normal;
+	font-style: normal !important;
+	font-weight: normal !important;
 	margin: 0.1em 0.5em 0 0;
-	text-align: center;
+	text-align: center !important;
 	padding: 0 0.5em;
+	text-transform: none !important;
+	text-decoration: none !important;
 }
 .zocial > span {
 	display: block;
