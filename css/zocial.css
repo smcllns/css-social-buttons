@@ -190,7 +190,7 @@
 .zocial.paypal { background: #FF921D; color: #032751 !important; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.appstore {background: #007DCB !important}
 .zocial.creativecommons {background: #000;}
-.zocial.disqus {background: #216892;}
+.zocial.disqus {background: #5D8AAD;}
 .zocial.github {color: #050505 !important; background: #FBFBFB;}
 .zocial.gowalla {background: #FF720A;}
 .zocial.skype {background: #00A2ED;}
@@ -240,6 +240,7 @@
 .zocial.viadeo {background: #FFF;  color: #000 !important;}
 .zocial.pinterest {background: #C91618;}
 .zocial.podcast {background: #9365CE;}
+
 
 /*Misc*/
 button::-moz-focus-inner {
