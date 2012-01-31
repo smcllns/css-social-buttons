@@ -6,11 +6,11 @@
 /*Vector Icons*/
 @font-face {
 	font-family: 'zocial';
-	src: url('../type/zocial-regular-webfont.eot');
-	src: url('../type/zocial-regular-webfont.eot?#iefix') format('embedded-opentype'),
-	url('../type/zocial-regular-webfont.woff') format('woff'),
-	url('../type/zocial-regular-webfont.ttf') format('truetype'),
-	url('../type/zocial-regular-webfont.svg#ZocialRegular') format('svg');
+	src: url('zocial-regular-webfont.eot');
+	src: url('zocial-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	url('zocial-regular-webfont.woff') format('woff'),
+	url('zocial-regular-webfont.ttf') format('truetype'),
+	url('zocial-regular-webfont.svg#ZocialRegular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

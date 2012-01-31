@@ -12,6 +12,9 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - CSS3 degrades gracefully in IE8 and below etc.
 
 ## How to use these buttons:
+- Include zocial.css in your page
+- Make sure the font files are in the same directory as zocial.css (or else change the src to these inside zocial.css)
+- Markup looks like:
 
 	<button class='zocial facebook'>
 		<span>Button label here</span>
@@ -25,4 +28,4 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 
 Check out [zocial.smcllns.com](http://zocial.smcllns.com) for demo and code examples.
 
-Problems or questions to [@smcllns](http://twitter.com/smcllns)
+Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
