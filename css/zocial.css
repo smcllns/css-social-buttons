@@ -188,6 +188,8 @@
 .zocial.bitcoin > span:before {content: "2"; color: #F7931A;}
 .zocial.fivehundredpx > span:before {content: "0"; color: #29B6FF;}
 .zocial.ninetyninedesigns > span:before {content: "9"; color: #F50;}
+.zocial.quora > span:before {content: "q";}
+.zocial.pinboard > span:before {content: "n";}
 
 /*Main button area*/
 .zocial.openid {background: #f5f5f5; color: #333;}
@@ -251,6 +253,8 @@
 .zocial.bitcoin {background: #EFEFEF; color: #4D4D4D;}
 .zocial.fivehundredpx {background: #333;}
 .zocial.ninetyninedesigns {background: #FFF; color: #072243;}
+.zocial.quora {background: #A82400;}
+.zocial.pinboard {background: blue;}
 
 /*The Misc Buttons*/
 /*These button have no icons and can be general purpose buttons while ensuring consistent button style*/
