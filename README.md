@@ -11,10 +11,7 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - works splendidly on any browser supporting @font-face
 - CSS3 degrades gracefully in IE8 and below etc.
 
-## How to use these buttons:
-- Include zocial.css in your page
-- Make sure the font files are in the same directory as zocial.css (or else change the src to these inside zocial.css)
-- Markup looks like:
+## How to use these buttons
 
 	<button class='zocial facebook'>
 		<span>Button label here</span>
