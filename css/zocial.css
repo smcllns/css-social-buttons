@@ -106,7 +106,7 @@
 
 /*Adjustments for light background buttons*/
 .zocial.plancast, .zocial.posterous, .zocial.dropbox, .zocial.openid, .zocial.instapaper,
-.zocial.github, .zocial.wikipedia, .zocial.cloudapp, .zocial.gmail, .zocial.weibo, .zocial.viadeo, .zocial.bitcoin, .zocial.ninetyninedesigns, .zocial.email, .zocial.secondary {
+.zocial.github, .zocial.wikipedia, .zocial.cloudapp, .zocial.gmail, .zocial.weibo, .zocial.viadeo, .zocial.bitcoin, .zocial.ninetyninedesigns, .zocial.email, .zocial.secondary, .zocial.itunes {
 	text-shadow: 0 1px 0 rgba(255,255,255,0.8);
 	-moz-box-shadow: inset 0 0.0625em 0 rgba(255,255,255,0.8), inset 0 0 0.0625em rgba(255,255,255,0.5);
 	-webkit-box-shadow: inset 0 0.0625em 0 rgba(255,255,255,0.8), inset 0 0 0.0625em rgba(255,255,255,0.5);
@@ -116,7 +116,7 @@
 }
 
 /*:hover adjustments for light background buttons*/
-.zocial.plancast:hover > span, .zocial.posterous:hover > span, .zocial.dropbox:hover > span, .zocial.openid:hover > span, .zocial.instapaper:hover > span, .zocial.github:hover > span, .zocial.wikipedia:hover > span, .zocial.gmail:hover > span, .zocial.plancast:focus > span, .zocial.twitter:focus > span, .zocial.posterous:focus > span, .zocial.dropbox:focus > span, .zocial.openid:focus > span, .zocial.instapaper:focus > span, .zocial.github:focus > span, .zocial.wikipedia:focus > span, .zocial.gmail:focus > span, .zocial.weibo:focus > span, .zocial.weibo:hover > span, .zocial.viadeo:hover > span, .zocial.viadeo:focus > span, .zocial.bitcoin:hover > span, .zocial.bitcoin:focus > span, .zocial.ninetyninedesigns:hover > span, .zocial.ninetyninedesigns:focus > span, .zocial.email:hover > span, .zocial.email:focus > span, .zocial.misc.secondary:focus > span, .zocial.secondary:hover > span {
+.zocial.plancast:hover > span, .zocial.posterous:hover > span, .zocial.dropbox:hover > span, .zocial.openid:hover > span, .zocial.instapaper:hover > span, .zocial.github:hover > span, .zocial.wikipedia:hover > span, .zocial.gmail:hover > span, .zocial.plancast:focus > span, .zocial.twitter:focus > span, .zocial.posterous:focus > span, .zocial.dropbox:focus > span, .zocial.openid:focus > span, .zocial.instapaper:focus > span, .zocial.github:focus > span, .zocial.wikipedia:focus > span, .zocial.gmail:focus > span, .zocial.weibo:focus > span, .zocial.weibo:hover > span, .zocial.viadeo:hover > span, .zocial.viadeo:focus > span, .zocial.bitcoin:hover > span, .zocial.bitcoin:focus > span, .zocial.ninetyninedesigns:hover > span, .zocial.ninetyninedesigns:focus > span, .zocial.email:hover > span, .zocial.email:focus > span, .zocial.secondary:focus > span, .zocial.secondary:hover > span, .zocial.itunes:focus > span, .zocial.itunes:hover > span {
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -124,7 +124,7 @@
 }
 
 /*:active adjustments for light background buttons*/
-.zocial.plancast:active > span, .zocial.posterous:active > span, .zocial.dropbox:active > span, .zocial.openid:active > span, .zocial.instapaper:active > span, .zocial.github:active > span, .zocial.wikipedia:active > span, .zocial.gmail:active > span, .zocial.weibo:active > span, .zocial.viadeo:active > span, .zocial.bitcoin:active > span, .zocial.ninetyninedesigns:active > span, .zocial.email:active > span, .zocial.secondary:active > span {
+.zocial.plancast:active > span, .zocial.posterous:active > span, .zocial.dropbox:active > span, .zocial.openid:active > span, .zocial.instapaper:active > span, .zocial.github:active > span, .zocial.wikipedia:active > span, .zocial.gmail:active > span, .zocial.weibo:active > span, .zocial.viadeo:active > span, .zocial.bitcoin:active > span, .zocial.ninetyninedesigns:active > span, .zocial.email:active > span, .zocial.secondary:active > span, .zocial.itunes:active > span {
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
@@ -155,9 +155,9 @@
 .zocial.guest > span:before {content: "?";}
 .zocial.instapaper > span:before {content: "I";}
 .zocial.android > span:before {content: "&";}
-.zocial.itunes > span:before {content: "A";}
+.zocial.appstore > span:before {content: "A";}
 .zocial.paypal > span:before {content: "$";}
-.zocial.appstore > span:before {content: "^";}
+.zocial.macstore > span:before {content: "^";}
 .zocial.creativecommons > span:before {content: "C";}
 .zocial.disqus > span:before {content: "Q";}
 .zocial.github > span:before {content: "g";}
@@ -196,15 +196,17 @@
 .zocial.stumbleupon > span:before {content: "/";}
 .zocial.email > span:before {content: "]"; color: #312C2A;}
 .zocial.call > span:before {content: "7";}
+.zocial.itunes > span:before {content: "i"; color: #1A6DD2;}
+.zocial.myspace > span:before {content: "_";}
 
 /*Main button area*/
 .zocial.openid {background: #f5f5f5; color: #333;}
 .zocial.guest {background: #1B4D6D;}
 .zocial.instapaper {color: #222; background: #eee;}
 .zocial.android {background: #A4C639;}
-.zocial.itunes {background: #222;}
+.zocial.appstore {background: #000;}
 .zocial.paypal { background: #FF921D; color: #032751; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
-.zocial.appstore {background: #007DCB}
+.zocial.macstore {background: #007DCB}
 .zocial.creativecommons {background: #000;}
 .zocial.disqus {background: #5D8AAD;}
 .zocial.github {color: #050505; background: #FBFBFB;}
@@ -264,6 +266,8 @@
 .zocial.stumbleupon {background: #EB4924;}
 .zocial.email {background: #F0F0EB; color: #312C2A;}
 .zocial.call {background: green;}
+.zocial.itunes {background: #EFEFEB; color: #312C2A}
+.zocial.myspace {background: #000;}
 
 /*The Misc Buttons*/
 /*These button have no icons and can be general purpose buttons while ensuring consistent button style*/
