@@ -5,11 +5,12 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - @font-face icons
 - custom font file for all social icons
 - em sizing based on button font-size
-- support for about 66 different services
+- support for about 67 different services
 - buttons and icons supported
 - no raster images (sweet)
 - works splendidly on any browser supporting @font-face
 - CSS3 degrades gracefully in IE8 and below etc.
+- also includes generic icon-less primary and secondary buttons
 
 ## How to use these buttons
 
