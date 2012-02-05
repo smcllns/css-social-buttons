@@ -83,29 +83,44 @@
 
 /*Gradients*/
 .zocial > span {
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(49%, rgba(255,255,255,0.05)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.1)));
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(49%, rgba(255,255,255,0.05)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.1)));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
 	background: linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
 }
 
 .zocial:hover > span, .zocial:focus > span {
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.15)), color-stop(49%, rgba(255,255,255,0.15)), color-stop(51%, rgba(0,0,0,0.1)), to(rgba(0,0,0,0.15)));
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.15)), color-stop(49%, rgba(255,255,255,0.15)), color-stop(51%, rgba(0,0,0,0.1)), to(rgba(0,0,0,0.15)));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
 	background: linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
 }
 
 .zocial:active > span {
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 }
 
 /*Adjustments for light background buttons*/
-.zocial.plancast, .zocial.posterous, .zocial.dropbox, .zocial.openid, .zocial.instapaper,
-.zocial.github, .zocial.wikipedia, .zocial.cloudapp, .zocial.gmail, .zocial.weibo, .zocial.viadeo, .zocial.bitcoin, .zocial.ninetyninedesigns, .zocial.email, .zocial.secondary, .zocial.itunes {
+
+.zocial.bitcoin,
+.zocial.cloudapp,
+.zocial.dropbox,
+.zocial.email,
+.zocial.github,
+.zocial.gmail,
+.zocial.instapaper,
+.zocial.itunes,
+.zocial.ninetyninedesigns,
+.zocial.openid,
+.zocial.plancast,
+.zocial.posterous,
+.zocial.secondary,
+.zocial.viadeo,
+.zocial.weibo,
+.zocial.wikipedia {
 	border: 1px solid rgba(0,0,0,0.3);
 	border-bottom-color: rgba(0,0,0,0.5);
 	-moz-box-shadow: inset 0 0.099em 0 rgba(255,255,255,0.8), inset 0 0 0.099em rgba(255,255,255,0.5);
@@ -115,7 +130,38 @@
 }
 
 /*:hover adjustments for light background buttons*/
-.zocial.plancast:hover > span, .zocial.posterous:hover > span, .zocial.dropbox:hover > span, .zocial.openid:hover > span, .zocial.instapaper:hover > span, .zocial.github:hover > span, .zocial.wikipedia:hover > span, .zocial.gmail:hover > span, .zocial.plancast:focus > span, .zocial.twitter:focus > span, .zocial.posterous:focus > span, .zocial.dropbox:focus > span, .zocial.openid:focus > span, .zocial.instapaper:focus > span, .zocial.github:focus > span, .zocial.wikipedia:focus > span, .zocial.gmail:focus > span, .zocial.weibo:focus > span, .zocial.weibo:hover > span, .zocial.viadeo:hover > span, .zocial.viadeo:focus > span, .zocial.bitcoin:hover > span, .zocial.bitcoin:focus > span, .zocial.ninetyninedesigns:hover > span, .zocial.ninetyninedesigns:focus > span, .zocial.email:hover > span, .zocial.email:focus > span, .zocial.secondary:focus > span, .zocial.secondary:hover > span, .zocial.itunes:focus > span, .zocial.itunes:hover > span {
+
+.zocial.bitcoin:focus > span,
+.zocial.bitcoin:hover > span,
+.zocial.dropbox:focus > span,
+.zocial.dropbox:hover > span,
+.zocial.email:focus > span,
+.zocial.email:hover > span,
+.zocial.github:focus > span,
+.zocial.github:hover > span,
+.zocial.gmail:focus > span,
+.zocial.gmail:hover > span,
+.zocial.instapaper:focus > span,
+.zocial.instapaper:hover > span,
+.zocial.itunes:focus > span,
+.zocial.itunes:hover > span,
+.zocial.ninetyninedesigns:focus > span,
+.zocial.ninetyninedesigns:hover > span,
+.zocial.openid:focus > span,
+.zocial.openid:hover > span,
+.zocial.plancast:focus > span,
+.zocial.plancast:hover > span,
+.zocial.posterous:focus > span,
+.zocial.posterous:hover > span,
+.zocial.secondary:focus > span,
+.zocial.secondary:hover > span,
+.zocial.twitter:focus > span,
+.zocial.viadeo:focus > span,
+.zocial.viadeo:hover > span,
+.zocial.weibo:focus > span,
+.zocial.weibo:hover > span,
+.zocial.wikipedia:focus > span,
+.zocial.wikipedia:hover > span {
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -123,7 +169,22 @@
 }
 
 /*:active adjustments for light background buttons*/
-.zocial.plancast:active > span, .zocial.posterous:active > span, .zocial.dropbox:active > span, .zocial.openid:active > span, .zocial.instapaper:active > span, .zocial.github:active > span, .zocial.wikipedia:active > span, .zocial.gmail:active > span, .zocial.weibo:active > span, .zocial.viadeo:active > span, .zocial.bitcoin:active > span, .zocial.ninetyninedesigns:active > span, .zocial.email:active > span, .zocial.secondary:active > span, .zocial.itunes:active > span {
+
+.zocial.bitcoin:active > span,
+.zocial.dropbox:active > span,
+.zocial.email:active > span,
+.zocial.github:active > span,
+.zocial.gmail:active > span,
+.zocial.instapaper:active > span,
+.zocial.itunes:active > span,
+.zocial.ninetyninedesigns:active > span,
+.zocial.openid:active > span,
+.zocial.plancast:active > span,
+.zocial.posterous:active > span,
+.zocial.secondary:active > span,
+.zocial.viadeo:active > span,
+.zocial.weibo:active > span,
+.zocial.wikipedia:active > span {
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
