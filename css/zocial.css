@@ -101,6 +101,8 @@ Enjoy
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(49%, rgba(255,255,255,0.05)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.1)));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
+	background: -o-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
+	background: -ms-linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
 	background: linear-gradient(top, rgba(255,255,255,0.1), rgba(255,255,255,0.05) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.1));
 }
 
@@ -108,6 +110,8 @@ Enjoy
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.15)), color-stop(49%, rgba(255,255,255,0.15)), color-stop(51%, rgba(0,0,0,0.1)), to(rgba(0,0,0,0.15)));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
+	background: -o-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
+	background: -ms-linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
 	background: linear-gradient(top, rgba(255,255,255,0.15), rgba(255,255,255,0.15) 49%, rgba(0,0,0,0.1) 51%, rgba(0,0,0,0.15));
 }
 
@@ -115,6 +119,8 @@ Enjoy
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.1)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background: -o-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background: -ms-linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: linear-gradient(bottom, rgba(255,255,255,0.1), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 }
 
@@ -180,6 +186,8 @@ Enjoy
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
+	background: -o-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
+	background: -ms-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background: linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 }
 
@@ -203,6 +211,8 @@ Enjoy
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background: -o-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background: -ms-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background: linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 }
 
@@ -363,4 +373,5 @@ button::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+
 
