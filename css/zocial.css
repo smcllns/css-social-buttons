@@ -271,6 +271,7 @@ Enjoy
 .zocial.vimeo > span:before {content: "V";}
 .zocial.weibo > span:before {content: "J"; color: #e6162d !important;}
 .zocial.wikipedia > span:before {content: ",";}
+.zocial.windows > span:before {content: "W";}
 .zocial.wordpress > span:before {content: "w";}
 .zocial.yahoo > span:before {content: "Y";}
 .zocial.yelp > span:before {content: "y";}
@@ -341,6 +342,7 @@ Enjoy
 .zocial.vimeo {background: #00a2cd;}
 .zocial.weibo {background: #faf6f1; color: #000 !important;}
 .zocial.wikipedia {background: #fff; color: #000 !important;}
+.zocial.windows {background: #0052a4; color: #FFF !important;}
 .zocial.wordpress {background: #464646;}
 .zocial.yahoo {background: #a200c2;}
 .zocial.yelp {background: #e60010;}
