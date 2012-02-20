@@ -89,10 +89,12 @@ Enjoy
 .zocial.icon {
 	overflow: hidden;
 	width: 1.85em;
+	height: 1.85em;
 }
 .zocial.icon > span:before {
 	padding: 0;
 	width: 1.85em;
+	height: 1.85em;
 }
 
 /* Gradients */
