@@ -30,9 +30,11 @@ Enjoy
 	cursor: pointer;
 	display: inline-block;
 	font-family: "Lucida Grande", Tahoma, sans-serif;
+	font-size: 1em;
 	font-style: normal !important;
 	font-weight: bold !important;
 	letter-spacing: 0;
+	line-height: 2em;
 	padding: 0;
 	position: relative;
 	text-align: center;
@@ -53,10 +55,9 @@ Enjoy
 	float: left;
 	font-family: "zocial" !important;
 	font-size: 125% !important;
-	line-height: 1.65;
 	font-style: normal !important;
 	font-weight: normal !important;
-	margin: 0.1em 0.5em 0 0;
+	margin: 0 0.5em 0 0;
 	padding: 0 0.5em;
 	text-align: center !important;
 	text-decoration: none !important;
@@ -64,8 +65,6 @@ Enjoy
 }
 .zocial > span {
 	display: block;
-	font-size: 80% !important;
-	line-height: 2.1;
 	font-weight: bold;
 	padding: 0em 1em 0 0;
 	white-space: nowrap;
@@ -88,11 +87,11 @@ Enjoy
 
 .zocial.icon {
 	overflow: hidden;
-	width: 1.85em;
+	width: 2.2em;
 }
 .zocial.icon > span:before {
 	padding: 0;
-	width: 1.85em;
+	width: 1.75em;
 }
 
 /* Gradients */
@@ -124,6 +123,7 @@ Enjoy
 .zocial.cloudapp,
 .zocial.dropbox,
 .zocial.email,
+.zocial.eventful,
 .zocial.github,
 .zocial.gmail,
 .zocial.instapaper,
@@ -152,6 +152,8 @@ Enjoy
 .zocial.dropbox:hover > span,
 .zocial.email:focus > span,
 .zocial.email:hover > span,
+.zocial.eventful:focus > span,
+.zocial.eventful:hover > span,
 .zocial.github:focus > span,
 .zocial.github:hover > span,
 .zocial.gmail:focus > span,
@@ -188,6 +190,7 @@ Enjoy
 .zocial.bitcoin:active > span,
 .zocial.dropbox:active > span,
 .zocial.email:active > span,
+.zocial.eventful:active > span,
 .zocial.github:active > span,
 .zocial.gmail:active > span,
 .zocial.instapaper:active > span,
@@ -215,6 +218,7 @@ Enjoy
 .zocial.bitcoin > span:before {content: "2"; color: #f7931a !important;}
 .zocial.blogger > span:before {content: "B";}
 .zocial.call > span:before {content: "7";}
+.zocial.cal > span:before {content: ".";}
 .zocial.chrome > span:before {content: "[";}
 .zocial.cloudapp > span:before {content: "c";}
 .zocial.creativecommons > span:before {content: "C";}
@@ -222,8 +226,9 @@ Enjoy
 .zocial.dribbble > span:before {content: "D";}
 .zocial.dropbox > span:before {content: "d"; color: #1f75cc !important;}
 .zocial.email > span:before {content: "]"; color: #312c2a !important;}
-.zocial.eventasaurus > span:before {content: "v";}
+.zocial.eventasaurus > span:before {content: "v"; color: #9de428 !important;}
 .zocial.eventbrite > span:before {content: "|";}
+.zocial.eventful > span:before {content: "'"; color: #0066CC !important;}
 .zocial.evernote > span:before {content: "E";}
 .zocial.facebook > span:before {content: "f";}
 .zocial.fivehundredpx > span:before {content: "0"; color: #29b6ff !important;}
@@ -286,6 +291,7 @@ Enjoy
 .zocial.bitcoin {background: #efefef; color: #4d4d4d !important;}
 .zocial.blogger {background: #ee5a22;}
 .zocial.call {background: #008000;}
+.zocial.cal {background: #d63538;}
 .zocial.chrome {background: #006cd4;}
 .zocial.cloudapp {background: #fff; color: #312c2a !important;}
 .zocial.creativecommons {background: #000;}
@@ -293,8 +299,9 @@ Enjoy
 .zocial.dribbble {background: #ea4c89;}
 .zocial.dropbox {background: #fff; color: #312c2a !important;}
 .zocial.email {background: #f0f0eb; color: #312c2a !important;}
-.zocial.eventasaurus {background: #8ccc33;}
+.zocial.eventasaurus {background: #192931; color: #fff !important;}
 .zocial.eventbrite {background: #ff5616;}
+.zocial.eventful {background: #fff; color: #47ab15 !important;}
 .zocial.evernote {background: #6bb130; color: #fff !important;}
 .zocial.facebook {background: #4863ae;}
 .zocial.fivehundredpx {background: #333;}
