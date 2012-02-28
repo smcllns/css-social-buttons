@@ -54,7 +54,7 @@ Enjoy
 	display: block;
 	float: left;
 	font-family: "zocial" !important;
-	font-size: 125% !important;
+	font-size: 120% !important;
 	font-style: normal !important;
 	font-weight: normal !important;
 	margin: 0 0.5em 0 0;
@@ -87,13 +87,13 @@ Enjoy
 
 .zocial.icon {
 	overflow: hidden;
-	width: 2.2em;
-	height: 2em;
+	width: 2.4em;
+	height: 2.15em;
 }
 .zocial.icon > span:before {
 	padding: 0;
-	width: 1.75em;
-	height: 1.6em;
+	width: 2em;
+	height: 2em;
 }
 
 /* Gradients */
@@ -361,7 +361,7 @@ Enjoy
 .zocial.vimeo {background: #00a2cd;}
 .zocial.weibo {background: #faf6f1; color: #000 !important;}
 .zocial.wikipedia {background: #fff; color: #000 !important;}
-.zocial.windows {background: #0052a4; color: #FFF !important;}
+.zocial.windows {background: #0052a4; color: #fff !important;}
 .zocial.wordpress {background: #464646;}
 .zocial.yahoo {background: #a200c2;}
 .zocial.yelp {background: #e60010;}
