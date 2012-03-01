@@ -259,6 +259,7 @@ Enjoy
 .zocial.instapaper > span:before {content: "I";}
 .zocial.intensedebate > span:before {content: "{";}
 .zocial.itunes > span:before {content: "i"; color: #1a6dd2 !important;}
+.zocial.lanyrd > span:before {content: "-";}
 .zocial.lastfm > span:before {content: "l";}
 .zocial.linkedin > span:before {content: "L";}
 .zocial.macstore > span:before {content: "^";}
@@ -332,6 +333,7 @@ Enjoy
 .zocial.instapaper {background: #eee; color: #222 !important;}
 .zocial.intensedebate {background: #0099e1;}
 .zocial.itunes {background: #efefeb; color: #312c2a !important;}
+.zocial.lanyrd {background: #2e6ac2;}
 .zocial.lastfm {background: #dc1a23;}
 .zocial.linkedin {background: #0083a8;}
 .zocial.macstore {background: #007dcb}
