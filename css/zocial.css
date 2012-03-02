@@ -252,13 +252,14 @@ Enjoy
 .zocial.google > span:before {content: "G";}
 .zocial.googleplus > span:before {content: "+";}
 .zocial.gowalla > span:before {content: "@";}
-.zocial.grooveshark > span:before {content: "K";}
+.zocial.grooveshark > span:before {content: "8";}
 .zocial.guest > span:before {content: "?";}
 .zocial.html5 > span:before {content: "5";}
 .zocial.ie > span:before {content: "6";}
 .zocial.instapaper > span:before {content: "I";}
 .zocial.intensedebate > span:before {content: "{";}
 .zocial.itunes > span:before {content: "i"; color: #1a6dd2 !important;}
+.zocial.klout > span:before {content: "K"; }
 .zocial.lanyrd > span:before {content: "-";}
 .zocial.lastfm > span:before {content: "l";}
 .zocial.linkedin > span:before {content: "L";}
@@ -332,6 +333,7 @@ Enjoy
 .zocial.ie {background: #00a1d9;}
 .zocial.instapaper {background: #eee; color: #222 !important;}
 .zocial.intensedebate {background: #0099e1;}
+.zocial.klout {background: #e34a25;}
 .zocial.itunes {background: #efefeb; color: #312c2a !important;}
 .zocial.lanyrd {background: #2e6ac2;}
 .zocial.lastfm {background: #dc1a23;}
