@@ -14,13 +14,15 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 
 ## How to use these buttons
 
-	<button class='zocial facebook'>
-		<span>Button label here</span>
-	</button>
+	<button class='zocial facebook'>Button label here</button>
 
-- Parent element can be any element e.g. `a`, `div`, `button` etc.
-- Must contain child `span` element
-- Add class of `.zocial` to parent element
+or
+
+	<a class="zocial twitter'>Button label</a>
+
+- Can be any element e.g. `a`, `div`, `button` etc.
+- -Must contain child `span` element-
+- Add class of `.zocial`
 - Add class for name of service e.g. `.dropbox`, `.twitter`, `.github`
 - Done :-)
 
