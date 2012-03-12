@@ -21,7 +21,6 @@ or
 	<a class="zocial twitter'>Button label</a>
 
 - Can be any element e.g. `a`, `div`, `button` etc.
-- -Must contain child `span` element-
 - Add class of `.zocial`
 - Add class for name of service e.g. `.dropbox`, `.twitter`, `.github`
 - Done :-)
