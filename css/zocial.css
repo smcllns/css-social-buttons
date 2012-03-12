@@ -283,6 +283,7 @@ a.zocial {
 .zocial.weibo:before {content: "J"; color: #e6162d;}
 .zocial.wikipedia:before {content: ",";}
 .zocial.windows:before {content: "W";}
+.zocial.xing:before {content: "X"}
 .zocial.wordpress:before {content: "w";}
 .zocial.yahoo:before {content: "Y";}
 .zocial.yelp:before {content: "y";}
@@ -359,6 +360,7 @@ a.zocial {
 .zocial.wikipedia {background-color: #fff; color: #000;}
 .zocial.windows {background-color: #0052a4; color: #fff;}
 .zocial.wordpress {background-color: #464646;}
+.zocial.xing {background-color: #0A5D5E;}
 .zocial.yahoo {background-color: #a200c2;}
 .zocial.yelp {background-color: #e60010;}
 .zocial.youtube {background-color: #f00;}
