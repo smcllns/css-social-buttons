@@ -4,6 +4,7 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 
 - @font-face icons
 - custom font file for all social icons
+- icon font use private unicode spaces for accessibility
 - em sizing based on button font-size
 - support for about 67 different services
 - buttons and icons supported
