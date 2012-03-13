@@ -214,80 +214,80 @@ a.zocial {
 }
 
 /* Button icon and color */
-
-.zocial.amazon:before {content: "a";}
-.zocial.android:before {content: "&";}
-.zocial.aol:before {content: "\"";}
-.zocial.appstore:before {content: "A";}
-.zocial.bitcoin:before {content: "2"; color: #f7931a;}
-.zocial.blogger:before {content: "B";}
-.zocial.call:before {content: "7";}
-.zocial.cal:before {content: ".";}
-.zocial.chrome:before {content: "[";}
-.zocial.cloudapp:before {content: "c";}
-.zocial.creativecommons:before {content: "C";}
-.zocial.disqus:before {content: "Q";}
-.zocial.dribbble:before {content: "D";}
-.zocial.dropbox:before {content: "d"; color: #1f75cc;}
-.zocial.email:before {content: "]"; color: #312c2a;}
-.zocial.eventasaurus:before {content: "v"; color: #9de428;}
-.zocial.eventbrite:before {content: "|";}
-.zocial.eventful:before {content: "'"; color: #0066CC;}
-.zocial.evernote:before {content: "E";}
-.zocial.facebook:before {content: "f";}
-.zocial.fivehundredpx:before {content: "0"; color: #29b6ff;}
-.zocial.flattr:before {content: "%";}
-.zocial.forrst:before {content: ":"; color: #50894f;}
-.zocial.foursquare:before {content: "4";}
-.zocial.github:before {content: "g";}
-.zocial.gmail:before {content: "m"; color: #f00;}
-.zocial.google:before {content: "G";}
-.zocial.googleplus:before {content: "+";}
-.zocial.gowalla:before {content: "@";}
-.zocial.grooveshark:before {content: "8";}
-.zocial.guest:before {content: "?";}
-.zocial.html5:before {content: "5";}
-.zocial.ie:before {content: "6";}
-.zocial.instapaper:before {content: "I";}
-.zocial.intensedebate:before {content: "{";}
-.zocial.itunes:before {content: "i"; color: #1a6dd2;}
-.zocial.klout:before {content: "K"; }
-.zocial.lanyrd:before {content: "-";}
-.zocial.lastfm:before {content: "l";}
-.zocial.linkedin:before {content: "L";}
-.zocial.macstore:before {content: "^";}
-.zocial.meetup:before {content: "M";}
-.zocial.myspace:before {content: "_";}
-.zocial.ninetyninedesigns:before {content: "9"; color: #f50;}
-.zocial.openid:before {content: "o"; color: #ff921d;}
-.zocial.paypal:before {content: "$";}
-.zocial.pinboard:before {content: "n";}
-.zocial.pinterest:before {content: "1";}
-.zocial.plancast:before {content: "P";}
-.zocial.plurk:before {content: "j";}
-.zocial.podcast:before {content: "`";}
-.zocial.posterous:before {content: "~";}
-.zocial.quora:before {content: "q";}
-.zocial.rss:before {content: "R";}
-.zocial.scribd:before {content: "}"; color: #00d5ea;}
-.zocial.skype:before {content: "S";}
-.zocial.smashing:before {content: "*";}
-.zocial.songkick:before {content: "k";}
-.zocial.soundcloud:before {content: "s";}
-.zocial.spotify:before {content: "=";}
-.zocial.stumbleupon:before {content: "/";}
-.zocial.tumblr:before {content: "t";}
-.zocial.twitter:before {content: "T";}
-.zocial.viadeo:before {content: "H"; color: #f59b20;}
-.zocial.vimeo:before {content: "V";}
-.zocial.weibo:before {content: "J"; color: #e6162d;}
-.zocial.wikipedia:before {content: ",";}
-.zocial.windows:before {content: "W";}
-.zocial.xing:before {content: "X"}
-.zocial.wordpress:before {content: "w";}
-.zocial.yahoo:before {content: "Y";}
-.zocial.yelp:before {content: "y";}
-.zocial.youtube:before {content: "U";}
+/* Icon characters are stored in unicode private area */
+.zocial.amazon:before {content: "\E040";}
+.zocial.android:before {content: "\E005";}
+.zocial.aol:before {content: "\E001";}
+.zocial.appstore:before {content: "\E020";}
+.zocial.bitcoin:before {content: "\E011"; color: #f7931a;}
+.zocial.blogger:before {content: "\E021";}
+.zocial.call:before {content: "\E016";}
+.zocial.cal:before {content: "\E00D";}
+.zocial.chrome:before {content: "\E03A";}
+.zocial.cloudapp:before {content: "\E042";}
+.zocial.creativecommons:before {content: "\E022";}
+.zocial.disqus:before {content: "\E030";}
+.zocial.dribbble:before {content: "\E023";}
+.zocial.dropbox:before {content: "\E043"; color: #1f75cc;}
+.zocial.email:before {content: "\E03C"; color: #312c2a;}
+.zocial.eventasaurus:before {content: "\E055"; color: #9de428;}
+.zocial.eventbrite:before {content: "\E05B";}
+.zocial.eventful:before {content: "\E006"; color: #0066CC;}
+.zocial.evernote:before {content: "\E024";}
+.zocial.facebook:before {content: "\E045";}
+.zocial.fivehundredpx:before {content: "\E00F"; color: #29b6ff;}
+.zocial.flattr:before {content: "\E004";}
+.zocial.forrst:before {content: "\E019"; color: #50894f;}
+.zocial.foursquare:before {content: "\E013";}
+.zocial.github:before {content: "\E046";}
+.zocial.gmail:before {content: "\E04C"; color: #f00;}
+.zocial.google:before {content: "\E026";}
+.zocial.googleplus:before {content: "\E00A";}
+.zocial.gowalla:before {content: "\E01F";}
+.zocial.grooveshark:before {content: "\E017";}
+.zocial.guest:before {content: "\E01E";}
+.zocial.html5:before {content: "\E014";}
+.zocial.ie:before {content: "\E015";}
+.zocial.instapaper:before {content: "\E028";}
+.zocial.intensedebate:before {content: "\E05A";}
+.zocial.itunes:before {content: "\E048"; color: #1a6dd2;}
+.zocial.klout:before {content: "\E02A"; }
+.zocial.lanyrd:before {content: "\E00C";}
+.zocial.lastfm:before {content: "\E04B";}
+.zocial.linkedin:before {content: "\E02B";}
+.zocial.macstore:before {content: "\E03D";}
+.zocial.meetup:before {content: "\E02C";}
+.zocial.myspace:before {content: "\E03E";}
+.zocial.ninetyninedesigns:before {content: "\E018"; color: #f50;}
+.zocial.openid:before {content: "\E04E"; color: #ff921d;}
+.zocial.paypal:before {content: "\E003";}
+.zocial.pinboard:before {content: "\E04D";}
+.zocial.pinterest:before {content: "\E010";}
+.zocial.plancast:before {content: "\E02F";}
+.zocial.plurk:before {content: "\E049";}
+.zocial.podcast:before {content: "\E03F";}
+.zocial.posterous:before {content: "\E05D";}
+.zocial.quora:before {content: "\E050";}
+.zocial.rss:before {content: "\E031";}
+.zocial.scribd:before {content: "\E05C"; color: #00d5ea;}
+.zocial.skype:before {content: "\E032";}
+.zocial.smashing:before {content: "\E009";}
+.zocial.songkick:before {content: "\E04A";}
+.zocial.soundcloud:before {content: "\E052";}
+.zocial.spotify:before {content: "\E01C";}
+.zocial.stumbleupon:before {content: "\E00E";}
+.zocial.tumblr:before {content: "\E053";}
+.zocial.twitter:before {content: "\E033";}
+.zocial.viadeo:before {content: "\E027"; color: #f59b20;}
+.zocial.vimeo:before {content: "\E035";}
+.zocial.weibo:before {content: "\E029"; color: #e6162d;}
+.zocial.wikipedia:before {content: "\E008";}
+.zocial.windows:before {content: "\E036";}
+.zocial.xing:before {content: "\E037"}
+.zocial.wordpress:before {content: "\E056";}
+.zocial.yahoo:before {content: "\E038";}
+.zocial.yelp:before {content: "\E058";}
+.zocial.youtube:before {content: "\E034";}
 
 /* Button background and text color */
 
