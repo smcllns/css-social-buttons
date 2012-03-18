@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /*!
 Code written by Sam Collins (@smcllns) of www.eventasaur.us
 You are free to use this work commercially
@@ -281,7 +283,7 @@ a.zocial {
 .zocial.viadeo:before {content: "\E027"; color: #f59b20;}
 .zocial.vimeo:before {content: "\E035";}
 .zocial.weibo:before {content: "\E029"; color: #e6162d;}
-.zocial.wikipedia:before {content: "\E008";}
+.zocial.wikipedia:before {content: "\E00B";}
 .zocial.windows:before {content: "\E036";}
 .zocial.xing:before {content: "\E037"}
 .zocial.wordpress:before {content: "\E056";}
