@@ -23,7 +23,7 @@ Enjoy
 /* Button structure */
 
 .zocial,
-a.zocial {
+a.zocial, a.zocial:visited, a.zocial:hover {
 	border: 1px solid #777;
 	border-color: rgba(0,0,0,0.2);
 	border-bottom-color: #333;
