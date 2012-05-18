@@ -139,6 +139,7 @@ a.zocial {
 .zocial.openid,
 .zocial.plancast,
 .zocial.posterous,
+.zocial.reddit,
 .zocial.secondary,
 .zocial.viadeo,
 .zocial.weibo,
@@ -179,6 +180,8 @@ a.zocial {
 .zocial.plancast:hover,
 .zocial.posterous:focus,
 .zocial.posterous:hover,
+.zocial.reddit:focus,
+.zocial.reddit:hover,
 .zocial.secondary:focus,
 .zocial.secondary:hover,
 .zocial.twitter:focus,
@@ -210,6 +213,7 @@ a.zocial {
 .zocial.openid:active,
 .zocial.plancast:active,
 .zocial.posterous:active,
+.zocial.reddit:active,
 .zocial.secondary:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
@@ -236,6 +240,7 @@ a.zocial {
 .zocial.cloudapp::before {content: "\E042";}
 .zocial.creativecommons::before {content: "\E022";}
 .zocial.delicious::before {content: "\E002";}
+.zocial.digg::before {content: "\E01A";}
 .zocial.disqus::before {content: "\E030";}
 .zocial.dribbble::before {content: "\E023";}
 .zocial.dropbox::before {content: "\E043"; color: #1f75cc;}
@@ -272,6 +277,7 @@ a.zocial {
 .zocial.myspace::before {content: "\E03E";}
 .zocial.ninetyninedesigns::before {content: "\E018"; color: #f50;}
 .zocial.openid::before {content: "\E04E"; color: #ff921d;}
+.zocial.opentable::before {content: "\E05F";}
 .zocial.paypal::before {content: "\E003";}
 .zocial.pinboard::before {content: "\E04D";}
 .zocial.pinterest::before {content: "\E010";}
@@ -280,6 +286,7 @@ a.zocial {
 .zocial.podcast::before {content: "\E03F";}
 .zocial.posterous::before {content: "\E05D";}
 .zocial.quora::before {content: "\E050";}
+.zocial.reddit::before {content: "\E01D"; color: red;}
 .zocial.rss::before {content: "\E031";}
 .zocial.scribd::before {content: "\E05C"; color: #00d5ea;}
 .zocial.skype::before {content: "\E032";}
@@ -315,6 +322,7 @@ a.zocial {
 .zocial.cloudapp {background-color: #fff; color: #312c2a;}
 .zocial.creativecommons {background-color: #000;}
 .zocial.delicious {background-color: #3271cb;}
+.zocial.digg {background-color: #164673;}
 .zocial.disqus {background-color: #5d8aad;}
 .zocial.dribbble {background-color: #ea4c89;}
 .zocial.dropbox {background-color: #fff; color: #312c2a;}
@@ -351,6 +359,7 @@ a.zocial {
 .zocial.myspace {background-color: #000;}
 .zocial.ninetyninedesigns {background-color: #fff; color: #072243;}
 .zocial.openid {background-color: #f5f5f5; color: #333;}
+.zocial.opentable {background-color: #990000;}
 .zocial.paypal {background-color: #fff; color: #32689a; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.pinboard {background-color: blue;}
 .zocial.pinterest {background-color: #c91618;}
@@ -359,6 +368,7 @@ a.zocial {
 .zocial.podcast {background-color: #9365ce;}
 .zocial.posterous {background-color: #ffd959; color: #bc7134;}
 .zocial.quora {background-color: #a82400;}
+.zocial.reddit {background-color: #fff; color: #222;}
 .zocial.rss {background-color: #ff7f25;}
 .zocial.scribd {background-color: #231c1a;}
 .zocial.skype {background-color: #00a2ed;}
