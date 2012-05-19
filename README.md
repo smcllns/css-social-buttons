@@ -6,7 +6,7 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - custom font file for all social icons
 - icon font use private unicode spaces for accessibility
 - em sizing based on button font-size
-- support for about 79 different services
+- support for about 81 different services
 - buttons and icons supported
 - no raster images (sweet)
 - works splendidly on any browser supporting @font-face

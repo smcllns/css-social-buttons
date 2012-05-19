@@ -236,6 +236,7 @@ a.zocial {
 .zocial.blogger::before {content: "\E021";}
 .zocial.call::before {content: "\E016";}
 .zocial.cal::before {content: "\E00D";}
+.zocial.cart::before {content: "\E06A";}
 .zocial.chrome::before {content: "\E03A";}
 .zocial.cloudapp::before {content: "\E042";}
 .zocial.creativecommons::before {content: "\E022";}
@@ -285,6 +286,7 @@ a.zocial {
 .zocial.plurk::before {content: "\E049";}
 .zocial.podcast::before {content: "\E03F";}
 .zocial.posterous::before {content: "\E05D";}
+.zocial.print::before {content: "\E06B";}
 .zocial.quora::before {content: "\E050";}
 .zocial.reddit::before {content: "\E01D"; color: red;}
 .zocial.rss::before {content: "\E031";}
@@ -318,6 +320,7 @@ a.zocial {
 .zocial.blogger {background-color: #ee5a22;}
 .zocial.call {background-color: #008000;}
 .zocial.cal {background-color: #d63538;}
+.zocial.cart {background-color: #333;}
 .zocial.chrome {background-color: #006cd4;}
 .zocial.cloudapp {background-color: #fff; color: #312c2a;}
 .zocial.creativecommons {background-color: #000;}
@@ -367,6 +370,7 @@ a.zocial {
 .zocial.plurk {background-color: #cf682f;}
 .zocial.podcast {background-color: #9365ce;}
 .zocial.posterous {background-color: #ffd959; color: #bc7134;}
+.zocial.print {background-color: #f0f0eb; color: #222; text-shadow: 0 1px 0 rgba(255,255,255,0.8);}
 .zocial.quora {background-color: #a82400;}
 .zocial.reddit {background-color: #fff; color: #222;}
 .zocial.rss {background-color: #ff7f25;}
