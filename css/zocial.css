@@ -230,6 +230,7 @@ a.zocial {
 /* Icon characters are stored in unicode private area */
 .zocial.amazon::before {content: "\E040";}
 .zocial.android::before {content: "\E005";}
+.zocial.angellist::before {content: "\E06C";}
 .zocial.aol::before {content: "\E001";}
 .zocial.appstore::before {content: "\E020";}
 .zocial.bitcoin::before {content: "\E011"; color: #f7931a;}
@@ -266,6 +267,7 @@ a.zocial {
 .zocial.guest::before {content: "\E01E";}
 .zocial.html5::before {content: "\E014";}
 .zocial.ie::before {content: "\E015";}
+.zocial.instagram::before {content: "\E06D";}
 .zocial.instapaper::before {content: "\E028";}
 .zocial.intensedebate::before {content: "\E05A";}
 .zocial.itunes::before {content: "\E048"; color: #1a6dd2;}
@@ -314,6 +316,7 @@ a.zocial {
 
 .zocial.amazon {background-color: #ffad1d; color: #030037; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.android {background-color: #a4c639;}
+.zocial.angellist {background-color: #000;}
 .zocial.aol {background-color: #f00;}
 .zocial.appstore {background-color: #000;}
 .zocial.bitcoin {background-color: #efefef; color: #4d4d4d;}
@@ -351,6 +354,7 @@ a.zocial {
 .zocial.html5 {background-color: #ff3617;}
 .zocial.ie {background-color: #00a1d9;}
 .zocial.instapaper {background-color: #eee; color: #222;}
+.zocial.instagram {background-color: #3f729b;}
 .zocial.intensedebate {background-color: #0099e1;}
 .zocial.klout {background-color: #e34a25;}
 .zocial.itunes {background-color: #efefeb; color: #312c2a;}
