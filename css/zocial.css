@@ -18,6 +18,7 @@ Enjoy
 		url('zocial-regular-webfont.woff') format('woff'),
 		url('zocial-regular-webfont.ttf') format('truetype'),
 		url('zocial-regular-webfont.svg#ZocialRegular') format('svg');
+	unicode-range:U+0-U+10FFFF;
 }
 
 /* Button structure */
