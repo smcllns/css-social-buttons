@@ -18,7 +18,7 @@ Enjoy
 		url('zocial-regular-webfont.woff') format('woff'),
 		url('zocial-regular-webfont.ttf') format('truetype'),
 		url('zocial-regular-webfont.svg#ZocialRegular') format('svg');
-	unicode-range:U+0-U+10FFFF;
+	unicode-range: U+0-U+10FFFF;
 }
 
 /* Button structure */
@@ -40,13 +40,13 @@ a.zocial {
 	text-align: center;
 	text-decoration: none;
 	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	white-space: nowrap;
 	
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	user-select: none;
 	
 	position: relative;
-	z-index: 100;
 	
 	-moz-border-radius: .3em;
 	-webkit-border-radius: .3em;
