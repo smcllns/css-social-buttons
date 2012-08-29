@@ -70,7 +70,9 @@ a.zocial {
 	-webkit-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	
+	-moz-font-smoothing: antialiased;
 	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
 }
 
 .zocial:active {
@@ -305,6 +307,7 @@ a.zocial {
 .zocial.twitter:before {content: "T";}
 .zocial.viadeo:before {content: "H"; color: #f59b20;}
 .zocial.vimeo:before {content: "V";}
+.zocial.vk:before {content: "N";}
 .zocial.weibo:before {content: "J"; color: #e6162d;}
 .zocial.wikipedia:before {content: ",";}
 .zocial.windows:before {content: "W";}
@@ -386,12 +389,13 @@ a.zocial {
 .zocial.songkick {background-color: #ff0050;}
 .zocial.soundcloud {background-color: #ff4500;}
 .zocial.spotify {background-color: #60af00;}
-.zocial.steam {background-color: #eb4924;}
+.zocial.steam {background-color: #000;}
 .zocial.stumbleupon {background-color: #eb4924;}
 .zocial.tumblr {background-color: #374a61;}
 .zocial.twitter {background-color: #46c0fb;}
 .zocial.viadeo {background-color: #fff;  color: #000;}
 .zocial.vimeo {background-color: #00a2cd;}
+.zocial.vk {background-color: #45688E;}
 .zocial.weibo {background-color: #faf6f1; color: #000;}
 .zocial.wikipedia {background-color: #fff; color: #000;}
 .zocial.windows {background-color: #0052a4; color: #fff;}
