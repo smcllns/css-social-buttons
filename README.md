@@ -28,4 +28,6 @@ or
 
 Check out [zocial.smcllns.com](http://zocial.smcllns.com) for demo and code examples.
 
+There's also a LESS version from @gustavohenke [here](https://github.com/gustavohenke/zocial-less)
+
 Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
