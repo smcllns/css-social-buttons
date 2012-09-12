@@ -1,12 +1,14 @@
 @charset "UTF-8";
 
 /*!
-Code written by Sam Collins (@smcllns) of www.eventasaur.us
-You are free to use this work commercially
-You are free to extend this work without permissions from the author (just do so tastefully eh?)
-Enjoy
+	Zocial Butons
+	http://zocial.smcllns.com
+	by Sam Collins (@smcllns)
+	License: http://opensource.org/licenses/mit-license.php
+	
+	You are free to use and modify, as long as you keep this license comment intact or link back to zocial.smcllns.com on your site.
 */
-
+	
 /* Reference icons from font-files */
 
 @font-face {
