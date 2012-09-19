@@ -252,6 +252,7 @@ a.zocial {
 .zocial.disqus:before {content: "Q";}
 .zocial.dribbble:before {content: "D";}
 .zocial.dropbox:before {content: "d"; color: #1f75cc;}
+.zocial.dwolla:before {content: "\00E0";}
 .zocial.email:before {content: "]"; color: #312c2a;}
 .zocial.eventasaurus:before {content: "v"; color: #9de428;}
 .zocial.eventbrite:before {content: "|";}
@@ -305,6 +306,7 @@ a.zocial {
 .zocial.soundcloud:before {content: "s";}
 .zocial.spotify:before {content: "=";}
 .zocial.steam:before {content: "b";}
+.zocial.stripe:before {content: "\00A3";}
 .zocial.stumbleupon:before {content: "/";}
 .zocial.tumblr:before {content: "t";}
 .zocial.twitter:before {content: "T";}
@@ -341,6 +343,7 @@ a.zocial {
 .zocial.disqus {background-color: #5d8aad;}
 .zocial.dribbble {background-color: #ea4c89;}
 .zocial.dropbox {background-color: #fff; color: #312c2a;}
+.zocial.dwolla {background-color: #e88c02;}
 .zocial.email {background-color: #f0f0eb; color: #312c2a;}
 .zocial.eventasaurus {background-color: #192931; color: #fff;}
 .zocial.eventbrite {background-color: #ff5616;}
@@ -394,6 +397,7 @@ a.zocial {
 .zocial.soundcloud {background-color: #ff4500;}
 .zocial.spotify {background-color: #60af00;}
 .zocial.steam {background-color: #000;}
+.zocial.stripe {background-color: #2F7ED6;}
 .zocial.stumbleupon {background-color: #eb4924;}
 .zocial.tumblr {background-color: #374a61;}
 .zocial.twitter {background-color: #46c0fb;}
