@@ -15,11 +15,11 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 
 ## How to use these buttons
 
-	<button class='zocial facebook'>Button label here</button>
+	<button class="zocial facebook">Button label here</button>
 
 or
 
-	<a class="zocial twitter'>Button label</a>
+	<a class="zocial twitter">Button label</a>
 
 - Can be any element e.g. `a`, `div`, `button` etc.
 - Add class of `.zocial`
