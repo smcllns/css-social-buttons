@@ -460,7 +460,7 @@ button:-moz-focus-inner {
 
 @font-face {
     font-family: 'zocial';
-    src: url('zocial-regular-webfont.eot');
+    src: url('zocial-regular-webfont.eot') format('embedded-opentype');
 }
 
 @font-face {
