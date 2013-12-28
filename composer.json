@@ -1,0 +1,12 @@
+{
+    "name": "2amigos/css-social-buttons",
+    "description": "Zocial CSS social buttons.",
+    "keywords": ["font", "zocial", "icon"],
+    "homepage": "http://zocial.smcllns.com/",        
+    "authors": [
+        {
+            "name": "Sam Collins",            
+            "homepage": "http://zocial.smcllns.com/"
+        }
+    ],    
+}
