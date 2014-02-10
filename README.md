@@ -32,6 +32,15 @@ There's also a LESS version from @gustavohenke [here](https://github.com/gustavo
 
 Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
 
+## How to contribute
 
+Install [Font Custom](http://fontcustom.com/#installation)
+
+Run `fontcustom compile` to build the font.
+
+New fonts are defined by adding them in the `svg/` folder. For color settings
+see the `templates/zocial.css` file.
+
+## License
 
 Under [MIT License](http://opensource.org/licenses/mit-license.php)
