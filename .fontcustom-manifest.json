@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "54a1c37dbe64285b271fa0ffba8086ba3ea64fda9f41efd61f6fefe6f26438d7",
-    "current": "54a1c37dbe64285b271fa0ffba8086ba3ea64fda9f41efd61f6fefe6f26438d7"
+    "previous": "af5504ed53288edc2cdd084afd63a9422ac2d4bc196999310f192f09e4fdb6dd",
+    "current": "af5504ed53288edc2cdd084afd63a9422ac2d4bc196999310f192f09e4fdb6dd"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -101,10 +101,6 @@
     "drupal": {
       "codepoint": 61718,
       "source": "./src/drupal.svg"
-    },
-    "duckduckgo": {
-      "codepoint": 61719,
-      "source": "./src/duckduckgo.svg"
     },
     "dwolla": {
       "codepoint": 61720,
@@ -266,6 +262,10 @@
       "codepoint": 61759,
       "source": "./src/paypal.svg"
     },
+    "persona": {
+      "codepoint": 61796,
+      "source": "./src/persona.svg"
+    },
     "pinboard": {
       "codepoint": 61760,
       "source": "./src/pinboard.svg"
@@ -412,7 +412,6 @@
     }
   },
   "options": {
-    "autoscale": false,
     "autowidth": false,
     "config": "fontcustom.yml",
     "css_selector": ".zocial.{{glyph}}",
@@ -432,7 +431,6 @@
     "preprocessor_path": "",
     "project_root": "(pwd)",
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "zocial.css"
     ]

@@ -250,6 +250,7 @@ a.zocial {
 .zocial.ninetyninedesigns:before {color: #f50;}
 .zocial.openid:before {color: #ff921d;}
 .zocial.pocket:before {color:#ee4056;}
+.zocial.persona:before {color:#fff;}
 .zocial.reddit:before {color: red;}
 .zocial.scribd:before {color: #00d5ea;}
 .zocial.stackoverflow:before {color: #ff7a15;}
@@ -321,6 +322,7 @@ a.zocial {
 .zocial.openid {background-color: #f5f5f5; color: #333;}
 .zocial.opentable {background-color: #990000;}
 .zocial.paypal {background-color: #fff; color: #32689a; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
+.zocial.persona {background-color: #1258a1; color: #fff;}
 .zocial.pinboard {background-color: blue;}
 .zocial.pinterest {background-color: #c91618;}
 .zocial.plancast {background-color: #e7ebed; color: #333;}
