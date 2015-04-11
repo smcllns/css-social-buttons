@@ -15,7 +15,7 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 
 ## How to use these buttons
 
-	<button class='zocial facebook'>Button label here</button>
+	<button class="zocial facebook">Button label here</button>
 
 or
 
