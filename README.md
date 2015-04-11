@@ -40,12 +40,13 @@ Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
 
 ## How to contribute
 
-Install [Font Custom](http://fontcustom.com/#installation)
-
-Run `fontcustom compile` to build the font.
-
-New fonts are defined by adding them in the `svg/` folder. For color settings
-see the `templates/zocial.css` file.
+1. Install [Font Custom](http://fontcustom.com/#installation)
+2. Add new font in the `src/` folder.
+3. Set color settings in the `templates/zocial.css` file.
+4. Run `fontcustom compile`
+5. Update the `sample.html` file with both the button and icon.
+6. Test rendering. If broken go to step 2.
+7. Send pull-request !
 
 ## License
 
