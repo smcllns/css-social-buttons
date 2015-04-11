@@ -1,0 +1,21 @@
+project_root: (pwd)
+input: (project_root)
+output: (project_root)/(font name)
+config: (pwd)/fontcustom.yml
+debug: false
+quiet: false
+
+no_hash: true
+font_name: "zocial"
+
+input:
+  vectors: ./src
+  templates: ./templates
+
+output:
+  fonts: ./css
+  css: ./css
+
+templates: [ zocial.css ]
+css_selector: .zocial.{{glyph}}
+preprocessor_path: ""
