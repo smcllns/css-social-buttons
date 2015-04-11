@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "6577af3ff10cb3fa8dd69b2ae24d6acd0edfb82b714341821cc2c534a5513691",
-    "current": "6577af3ff10cb3fa8dd69b2ae24d6acd0edfb82b714341821cc2c534a5513691"
+    "previous": "15e3fa3082d161cb044361b4751eeeda135045eb2ffd309ac6552d00c5403924",
+    "current": "15e3fa3082d161cb044361b4751eeeda135045eb2ffd309ac6552d00c5403924"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -261,6 +261,10 @@
     "paypal": {
       "codepoint": 61759,
       "source": "./src/paypal.svg"
+    },
+    "persona": {
+      "codepoint": 61796,
+      "source": "./src/persona.svg"
     },
     "pinboard": {
       "codepoint": 61760,
