@@ -69,6 +69,11 @@ a.zocial {
 	outline: none; /* outline is visible on :focus */
 }
 
+.zocial:hover,
+.zocial:focus {
+	color: #fff;
+}
+
 /* Buttons can be displayed as standalone icons by adding a class of "icon" */
 
 .zocial.icon {
