@@ -13,20 +13,26 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - CSS3 degrades gracefully in IE8 and below etc.
 - also includes generic icon-less primary and secondary buttons
 
+*[Demo](https://samcollins.github.io/css-social-buttons/)*
+
 ## How to use these buttons
 
-	<button class="zocial facebook">Button label here</button>
+```html
+<button class="zocial facebook">Button label here</button>
+```
 
 or
 
-	<a class="zocial twitter">Button label</a>
+```html
+<a class="zocial twitter">Button label</a>
+```
 
 - Can be any element e.g. `a`, `div`, `button` etc.
 - Add class of `.zocial`
 - Add class for name of service e.g. `.dropbox`, `.twitter`, `.github`
 - Done :-)
 
-Check out [zocial.smcllns.com](http://zocial.smcllns.com) for demo and code examples.
+Check out [zocial.smcllns.com](http://zocial.smcllns.com) for code examples.
 
 There's also a LESS version from @gustavohenke [here](https://github.com/gustavohenke/zocial-less)
 
