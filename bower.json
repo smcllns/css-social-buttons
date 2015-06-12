@@ -3,7 +3,6 @@
   "description": "Zocial CSS social buttons",
   "keywords": ["font", "zocial", "social", "icon"],
   "homepage": "http://zocial.smcllns.com/",
-  "version": "1.0.0",
   "main": [
     "css/zocial.css",
     "css/zocial.eot",
