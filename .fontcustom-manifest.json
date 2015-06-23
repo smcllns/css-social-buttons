@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "15e3fa3082d161cb044361b4751eeeda135045eb2ffd309ac6552d00c5403924",
-    "current": "15e3fa3082d161cb044361b4751eeeda135045eb2ffd309ac6552d00c5403924"
+    "previous": "b3abc9d6a4533feac93ca9f492444c54dc4f4474f243abb310978c5e7852efaa",
+    "current": "b3abc9d6a4533feac93ca9f492444c54dc4f4474f243abb310978c5e7852efaa"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -433,7 +433,6 @@
       "preview": "./css"
     },
     "preprocessor_path": "",
-    "project_root": "(pwd)",
     "quiet": false,
     "templates": [
       "zocial.css"
