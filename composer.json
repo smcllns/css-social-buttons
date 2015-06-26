@@ -1,13 +1,26 @@
 {
-    "name": "samcollins/css-social-buttons",
-    "description": "Zocial CSS social buttons.",
-    "keywords": ["font", "zocial", "social", "icon"],
-    "homepage": "http://zocial.smcllns.com/",
-    "authors": [
-        {
-            "name": "Sam Collins",
-            "homepage": "http://zocial.smcllns.com/"
-        }
-    ],
-    "license": ["MIT"]
+  "name": "samcollins/css-social-buttons",
+  "description": "Zocial CSS social buttons.",
+  "keywords": [
+    "css",
+    "font",
+    "icon",
+    "social",
+    "zocial"
+  ],
+  "homepage": "http://zocial.smcllns.com/",
+  "authors": [
+    {
+      "name": "Sam Collins",
+      "homepage": "http://zocial.smcllns.com/"
+    },
+    {
+      "name": "zimbatm",
+      "homepage": "http://zimbatm.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/samcollins/css-social-buttons/issues"
+  },
+  "license": "MIT"
 }
