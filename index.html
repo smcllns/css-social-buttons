@@ -1,1 +1,139 @@
-sample.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Zocial | CSS3 Button Set</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="site/core.css" type="text/css" media="screen" charset="utf-8" />
+	<link rel="stylesheet" href="css/zocial.css" type="text/css" media="screen" charset="utf-8" />
+	<link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
+	<!--[if IE]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+
+<body>
+		<h1>Good buttons <br />make good neighbours.</h1>
+
+		<div class="dingbat"></div>
+
+		<a href="sample.html">
+			<section id="button-sample">
+				<span>Forty-two CSS buttons and icons lovingly made for your home.</span>
+			</section>
+		</a>
+		
+		<section id="purchase-area">
+			<div class="cta">
+			<a href="http://github.com/samcollins/css-social-buttons/" class="zocial github" target="_blank"><span>Get 'em on Github</span></a>
+			<p class="subtxt"><a href="http://zocialbuttons.com/" target="_blank">Looking for the SASS framework? Get it here!</a></p>
+			</div>
+			<div class="aside">
+				<span>$24.00</span>
+				<h2>42 CSS3 font-face <br/>vector icon buttons</h2>
+				<p>For the obsessive compulsive, <br />precocious designers of the web.</p>
+			</div>
+		</section>
+		
+		<section id="labels">
+			<article>
+				<h2>Necessity</h2>
+				<p>Utilitarian minds amongst you will wonder if such elegant buttons may improve conversions amongst your users. I conservatively assume that these finely crafted treasures will do no such thing—but rather, that they will remove the fickle distractions of inconsistent buttons and clear the way for your creative hands.</p>
+			</article>
+			<article>
+				<h2>Reliability</h2>
+				<p>Pessimists will argue that the time has not yet arrived to embrace vector methods where image sprites once reigned superior. Perhaps it will be of some comfort to know that the first version of these buttons are used by WordPress and can be found in over 200,000 new blog posts every morning.</p>
+			</article>
+			<article>
+				<h2>Value</h2>
+				<p>Entrepreneurs will indulge in the principle that all good work will be rewarded and before finishing this sentence, will have already calculated the cost-benefit of purchasing these items. For those more cash-strapped, you will find the first version of these buttons deep inside the <a href="https://github.com/samcollins/css-social-buttons" target="_blank">crypts of github</a>.</p>
+			</article>
+		</section>
+		
+		<div class="dingbat"></div>
+
+		<section id="demo-area">
+
+			<div id="demo">
+				<button class="zocial googleplus">Sign in with Google+</button>
+				<form action="">
+				<input type="range" id="font-size-range" value="16" min="12" step="1" max="32" />
+				<input type="text" id="button-label-input" placeholder="Sign in with Google+" />
+				<div>
+				<input type="radio" name="demo" id="select-button" value="button" checked="checked" />
+				<label for="select-button">button</label>
+				</div>
+				<div>
+				<input type="radio" name="demo" id="select-icon" value="icon" />
+				<label for="select-icon">icon</label>
+				</div>
+				<p>Font size: <span id="font-size-display">16px</span></p>
+				<p>Button text</p>
+				<p>Type</p>
+				</form>
+			</div>
+
+			<h2>TRY IT YOURSELF</h2>
+			<p>Editable button text</p>
+			<p>Editable size</p>
+			<p>One version for all resolutions</p>
+			<p>100% vector icon with @font-face</p>
+			<p>Cross-browser support</p>
+			<p>Gracefully degrades (IE6, IE7)</p>
+			<p>Button &amp; Icon styles</p>
+
+		</section>
+
+		<section id="howto" class="compact">
+			<article>
+				<h2>Examples</h2>
+				<p>These buttons require no extra markup and are designed with semantics in mind. <a href="#" id="show-examples">Show examples.</a></p>
+				<h2>Create a Facebook button</h2>
+				<p>On the parent element, add a class of "zocial" and a class for the button you need, in this case "facebook". Be sure to wrap your button text in a span tag as shown:</p>
+				<code>
+					&lt;button class="zocial facebook"&gt;Sign in with Facebook&lt;/button&gt;
+				</code>
+				<h2>Create a LinkedIn button</h2>
+				<p>The parent element can be any element, this time we're using &lt;a&gt; to create a LinkedIn button:</p>
+				<code>
+					&lt;a class="zocial linkedin"&gt;Sign in with LinkedIn&lt;/a&gt;
+				</code>
+				<h2>Resize the button</h2>
+				<p>Change the size of the button by adjusting the font-size of the parent element. The default font-size is 16px.</p>
+				<code>
+					&lt;button class="zocial skype" style="font-size: 22px"&gt;Skype Me&lt;/button&gt;
+				</code>
+				<h2>Show the icon version of the button</h2>
+				<p>Simply add a class of "icon".</p>
+				<code>
+					&lt;a class="zocial twitter icon"&gt;Follow me on Twitter&lt;/a&gt;
+				</code>
+			</article>
+		</section>
+
+
+		<div class="dingbat"></div>
+		<footer>
+			<p>Made by <a href="http://smcllns.com" target="_blank">smcllns</a></p>
+			<p>circa 2011</p>
+		</footer>
+		
+	<script src="//code.jquery.com/jquery-1.5.2.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="site/size-change.js" type="text/javascript" charset="utf-8"></script>
+	<script src="site/html5slider.js" type="text/javascript" charset="utf-8"></script>
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25061452-1']);
+	  _gaq.push(['_setDomainName', 'smcllns.com']);
+	  _gaq.push(['_setAllowHash', 'false']);
+	  _gaq.push(['_trackPageview']);
+	  _gaq.push(['_trackPageLoadTime']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</body>
+</html>
