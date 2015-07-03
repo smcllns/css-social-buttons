@@ -10,7 +10,7 @@
   ],
   "homepage": "http://zocial.smcllns.com/",
   "main": [
-    "css/zocial.css",
+    "css/zocial.css"
   ],
   "license": "MIT",
   "ignore": [
