@@ -1,22 +1,23 @@
 {
-  "name": "samcollins/css-social-buttons",
+  "name": "css-social-buttons",
   "description": "Zocial CSS social buttons",
-  "keywords": ["font", "zocial", "social", "icon"],
+  "keywords": [
+    "css",
+    "font",
+    "icon",
+    "social",
+    "zocial"
+  ],
   "homepage": "http://zocial.smcllns.com/",
   "main": [
     "css/zocial.css",
-    "css/zocial.eot",
-    "css/zocial.svg",
-    "css/zocial.ttf",
-    "css/zocial.woff"
   ],
   "license": "MIT",
   "ignore": [
     "*.json",
     "*.yml",
+    "*.html",
     "src/",
     "templates/"
-  ],
-  "dependencies": {},
-  "devDependencies": {}
+  ]
 }
