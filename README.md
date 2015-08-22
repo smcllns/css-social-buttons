@@ -38,6 +38,11 @@ There's also a LESS version from @gustavohenke [here](https://github.com/gustavo
 
 Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
 
+## CDN
+
+This project is available on CDNJS:
+https://cdnjs.com/libraries/css-social-buttons
+
 ## How to contribute
 
 1. Install [Font Custom](http://fontcustom.com/#installation)
