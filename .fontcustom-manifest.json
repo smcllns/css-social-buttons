@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "856fbedb7e20bff9d10f1dd7d012bdf3176b58c128bd7c68a99c93502bf2991f",
-    "current": "856fbedb7e20bff9d10f1dd7d012bdf3176b58c128bd7c68a99c93502bf2991f"
+    "previous": "e2474b33e3e864cf1857399079cbce4fe86e2b0f7d8fec6093016be2964be509",
+    "current": "e2474b33e3e864cf1857399079cbce4fe86e2b0f7d8fec6093016be2964be509"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -205,6 +205,10 @@
     "itunes": {
       "codepoint": 61745,
       "source": "./src/itunes.svg"
+    },
+    "joinme": {
+      "codepoint": 61797,
+      "source": "./src/joinme.svg"
     },
     "klout": {
       "codepoint": 61746,

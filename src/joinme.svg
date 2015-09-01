@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>32px Monocolor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="32px-Monocolor" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <path d="M20,13.9591921 C22.9622851,13.2723528 26.4343772,13 28,13 C31,13 32,16 32,18 L32,22 C32,26 30,27 25,27 C19,27 15,25 15,23 L15,18.786477 C14.6858906,18.8584511 14.3529089,18.9294182 14,19 C9,20 7,20 4,20 C1,20 7.60443573e-17,16 0,15 L0,9 C0,6 2,4 4,4 C6,4 9,4 14,5 C19,6 20,9 20,10 L20,13.9591921 Z M19.6549806,16.166225 C22.1735838,15.3887417 25.753017,15 27,15 C29,15 30,16 30,18 L30,22 C30,24 29,25 27,25 C25,25 17,25 17,22 L17,18.2246515 C18.4717908,17.7015693 19.2612271,17.0717405 19.6549806,16.166225 Z" id="Path-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
