@@ -13,7 +13,7 @@ I basically rewrote this entire set so they are full vector buttons, meaning:
 - CSS3 degrades gracefully in IE8 and below etc.
 - also includes generic icon-less primary and secondary buttons
 
-*[Demo](https://samcollins.github.io/css-social-buttons/)*
+*[Demo](https://smcllns.github.io/css-social-buttons/)*
 
 ## How to use these buttons
 
