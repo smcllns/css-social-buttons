@@ -45,7 +45,7 @@ https://cdnjs.com/libraries/css-social-buttons
 
 ## How to contribute
 
-1. Install [Font Custom](http://fontcustom.com/#installation)
+1. Install [Font Custom](https://github.com/FontCustom/fontcustom)
 2. Add new font in the `src/` folder.
 3. Set color settings in the `templates/zocial.css` file.
 4. Run `fontcustom compile`
