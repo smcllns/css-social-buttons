@@ -1,4 +1,10 @@
 
+1.2.0 / 2016-01-03
+==================
+
+  * NEW: Twitch icon. Thanks @inquam
+  * NEW: join.me icon. Might be a bit broken. Thanks @suttonj
+
 1.1.1 / 2015-07-04
 ==================
 
