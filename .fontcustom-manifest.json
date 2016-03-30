@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4a8381366308927397118a9bad71269bb86caa60b9d2e8431cf98fd7b6043f30",
-    "current": "4a8381366308927397118a9bad71269bb86caa60b9d2e8431cf98fd7b6043f30"
+    "previous": "87ffa0122ffd029e854bb5b137819c25506815f98de7e65e034daf3088987efd",
+    "current": "87ffa0122ffd029e854bb5b137819c25506815f98de7e65e034daf3088987efd"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -181,6 +181,10 @@
     "guest": {
       "codepoint": 61739,
       "source": "./src/guest.svg"
+    },
+    "houzz": {
+      "codepoint": 61799,
+      "source": "./src/houzz.svg"
     },
     "html5": {
       "codepoint": 61740,
