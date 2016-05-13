@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "87ffa0122ffd029e854bb5b137819c25506815f98de7e65e034daf3088987efd",
-    "current": "87ffa0122ffd029e854bb5b137819c25506815f98de7e65e034daf3088987efd"
+    "previous": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830",
+    "current": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -325,6 +325,10 @@
     "skype": {
       "codepoint": 61772,
       "source": "./src/skype.svg"
+    },
+    "slack": {
+      "codepoint": 61800,
+      "source": "./src/slack.svg"
     },
     "smashing": {
       "codepoint": 61773,
