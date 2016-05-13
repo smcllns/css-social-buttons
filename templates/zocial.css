@@ -144,8 +144,7 @@ a.zocial {
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
-.zocial.wikipedia,
-.zocial.houzz  {
+.zocial.wikipedia {
 	border: 1px solid #aaa;
 	border-color: rgba(0,0,0,0.3);
 	border-bottom-color: #777;
@@ -200,7 +199,7 @@ a.zocial {
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
 .zocial.houzz:focus, 
-.zocial.houzz:hover  {
+.zocial.houzz:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -230,8 +229,7 @@ a.zocial {
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
-.zocial.wikipedia:active,
-.zocial.houzz:active  {
+.zocial.wikipedia:active {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
@@ -267,6 +265,7 @@ a.zocial {
 .zocial.viadeo:before {color: #f59b20;}
 .zocial.weibo:before {color: #e6162d;}
 .zocial.houzz:before {color: #ffffff;}
+.zocial.slack:before {color: #fff;}
 
 /* Button background and text color */
 
@@ -372,6 +371,7 @@ a.zocial {
 .zocial.yelp {background-color: #e60010;}
 .zocial.youtube {background-color: #f00;}
 .zocial.houzz {background-color: #9ac641; color: #fff;}
+.zocial.slack {background-color: #3eb890; color: #fff;}
 
 /*
 The Miscellaneous Buttons
