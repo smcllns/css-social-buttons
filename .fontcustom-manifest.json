@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830",
-    "current": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830"
+    "previous": "b01f916760845323ba87a51f6929207b4a5606e3f967aedc27054de092d71f17",
+    "current": "b01f916760845323ba87a51f6929207b4a5606e3f967aedc27054de092d71f17"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -37,6 +37,10 @@
     "appstore": {
       "codepoint": 61702,
       "source": "./src/appstore.svg"
+    },
+    "betaseries": {
+      "codepoint": 61801,
+      "source": "./src/betaseries.svg"
     },
     "bitbucket": {
       "codepoint": 61703,

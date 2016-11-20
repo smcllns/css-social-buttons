@@ -5,7 +5,7 @@
 	http://zocial.smcllns.com
 	by Sam Collins (@smcllns)
 	License: http://opensource.org/licenses/mit-license.php
-	
+
 	You are free to use and modify, as long as you keep this license comment intact or link back to zocial.smcllns.com on your site.
 */
 
@@ -30,13 +30,13 @@ a.zocial {
 	text-decoration: none;
 	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
 	white-space: nowrap;
-	
+
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	user-select: none;
-	
+
 	position: relative;
-	
+
 	-moz-border-radius: .3em;
 	-webkit-border-radius: .3em;
 	border-radius: .3em;
@@ -54,11 +54,11 @@ a.zocial {
 	text-align: center;
 	text-decoration: none;
 	text-transform: none;
-	
+
 	-moz-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	-webkit-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
-	
+
 	-moz-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
@@ -88,7 +88,7 @@ a.zocial {
 	padding: 0;
 	width: 2em;
 	height: 2em;
-	
+
 	box-shadow: none;
 	border: none;
 }
@@ -198,7 +198,7 @@ a.zocial {
 .zocial.weibo:hover,
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
-.zocial.houzz:focus, 
+.zocial.houzz:focus,
 .zocial.houzz:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -276,6 +276,7 @@ a.zocial {
 .zocial.aol {background-color: #f00;}
 .zocial.appnet {background-color: #3178bd;}
 .zocial.appstore {background-color: #000;}
+.zocial.betaseries {background-color: #0099e1;}
 .zocial.bitbucket {background-color: #205081;}
 .zocial.bitcoin {background-color: #efefef; color: #4d4d4d;}
 .zocial.blogger {background-color: #ee5a22;}
