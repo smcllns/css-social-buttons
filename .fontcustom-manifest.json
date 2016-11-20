@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0c38556b10de6917f7e9921da1f25464186bf33331d2af894121babdb9419652",
-    "current": "0c38556b10de6917f7e9921da1f25464186bf33331d2af894121babdb9419652"
+    "previous": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820",
+    "current": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -97,6 +97,10 @@
     "digg": {
       "codepoint": 61714,
       "source": "./src/digg.svg"
+    },
+    "discordapp": {
+      "codepoint": 61805,
+      "source": "./src/discordapp.svg"
     },
     "disqus": {
       "codepoint": 61715,
