@@ -144,7 +144,8 @@ a.zocial {
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
-.zocial.wikipedia {
+.zocial.wikipedia,
+.zocial.www {
 	border: 1px solid #aaa;
 	border-color: rgba(0,0,0,0.3);
 	border-bottom-color: #777;
@@ -198,6 +199,8 @@ a.zocial {
 .zocial.weibo:hover,
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
+.zocial.www:focus,
+.zocial.www:hover,
 .zocial.houzz:focus,
 .zocial.houzz:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
@@ -229,7 +232,8 @@ a.zocial {
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
-.zocial.wikipedia:active {
+.zocial.wikipedia:active,
+.zocial.www:active {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
@@ -369,6 +373,7 @@ a.zocial {
 .zocial.wikipedia {background-color: #fff; color: #000;}
 .zocial.windows {background-color: #0052a4; color: #fff;}
 .zocial.wordpress {background-color: #464646;}
+.zocial.www {background-color: #fff; color: #000;}
 .zocial.xing {background-color: #0a5d5e;}
 .zocial.yahoo {background-color: #a200c2;}
 .zocial.ycombinator {background-color: #ff6600;}
