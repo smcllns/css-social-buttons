@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d878407a6b09d7e63552636129f9f549a0d5800ded57302c5861abf3bf154ae1",
-    "current": "d878407a6b09d7e63552636129f9f549a0d5800ded57302c5861abf3bf154ae1"
+    "previous": "0c38556b10de6917f7e9921da1f25464186bf33331d2af894121babdb9419652",
+    "current": "0c38556b10de6917f7e9921da1f25464186bf33331d2af894121babdb9419652"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -37,6 +37,10 @@
     "appstore": {
       "codepoint": 61702,
       "source": "./src/appstore.svg"
+    },
+    "askfm": {
+      "codepoint": 61804,
+      "source": "./src/askfm.svg"
     },
     "betaseries": {
       "codepoint": 61801,

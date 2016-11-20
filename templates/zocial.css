@@ -214,6 +214,7 @@ a.zocial {
 /* :active adjustments for light background buttons */
 
 .zocial.acrobat:active,
+.zocial.askfm:active,
 .zocial.bitcoin:active,
 .zocial.dropbox:active,
 .zocial.email:active,
@@ -281,6 +282,7 @@ a.zocial {
 .zocial.aol {background-color: #f00;}
 .zocial.appnet {background-color: #3178bd;}
 .zocial.appstore {background-color: #000;}
+.zocial.askfm {background-color: #fd6547;}
 .zocial.betaseries {background-color: #0099e1;}
 .zocial.bitbucket {background-color: #205081;}
 .zocial.bitcoin {background-color: #efefef; color: #4d4d4d;}
