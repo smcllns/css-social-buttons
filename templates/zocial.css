@@ -244,6 +244,7 @@ a.zocial {
 /* Button color */
 .zocial.acrobat:before {color: #FB0000;}
 .zocial.bitcoin:before {color: #f7931a;}
+.zocial.deviantart:before {color: #05cc47;}
 .zocial.dropbox:before {color: #1f75cc;}
 .zocial.drupal:before {color: #fff;}
 .zocial.email:before {color: #312c2a;}
@@ -288,6 +289,7 @@ a.zocial {
 .zocial.cloudapp {background-color: #fff; color: #312c2a;}
 .zocial.creativecommons {background-color: #000;}
 .zocial.delicious {background-color: #3271cb;}
+.zocial.deviantart {background-color: #475c4d;}
 .zocial.digg {background-color: #164673;}
 .zocial.disqus {background-color: #5d8aad;}
 .zocial.dribbble {background-color: #ea4c89;}

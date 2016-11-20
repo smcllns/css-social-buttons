@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b01f916760845323ba87a51f6929207b4a5606e3f967aedc27054de092d71f17",
-    "current": "b01f916760845323ba87a51f6929207b4a5606e3f967aedc27054de092d71f17"
+    "previous": "412cf2240d9f788ea31f38de81e243b4fc07206c18f267e25a642e73972be54a",
+    "current": "412cf2240d9f788ea31f38de81e243b4fc07206c18f267e25a642e73972be54a"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -85,6 +85,10 @@
     "delicious": {
       "codepoint": 61713,
       "source": "./src/delicious.svg"
+    },
+    "deviantart": {
+      "codepoint": 61802,
+      "source": "./src/deviantart.svg"
     },
     "digg": {
       "codepoint": 61714,
