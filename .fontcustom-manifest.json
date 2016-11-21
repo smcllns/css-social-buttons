@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830",
-    "current": "7c717a8dae1796b03c4a2642ea2cd91d4e7a3cd907a48693f20704b4e2f71830"
+    "previous": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820",
+    "current": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -37,6 +37,14 @@
     "appstore": {
       "codepoint": 61702,
       "source": "./src/appstore.svg"
+    },
+    "askfm": {
+      "codepoint": 61804,
+      "source": "./src/askfm.svg"
+    },
+    "betaseries": {
+      "codepoint": 61801,
+      "source": "./src/betaseries.svg"
     },
     "bitbucket": {
       "codepoint": 61703,
@@ -82,9 +90,17 @@
       "codepoint": 61713,
       "source": "./src/delicious.svg"
     },
+    "deviantart": {
+      "codepoint": 61802,
+      "source": "./src/deviantart.svg"
+    },
     "digg": {
       "codepoint": 61714,
       "source": "./src/digg.svg"
+    },
+    "discordapp": {
+      "codepoint": 61805,
+      "source": "./src/discordapp.svg"
     },
     "disqus": {
       "codepoint": 61715,
@@ -405,6 +421,10 @@
     "wordpress": {
       "codepoint": 61790,
       "source": "./src/wordpress.svg"
+    },
+    "www": {
+      "codepoint": 61803,
+      "source": "./src/www.svg"
     },
     "xing": {
       "codepoint": 61791,
