@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820",
-    "current": "a709d368c5389a89c858da5344a3899d5182ff632a5e152a8e39866adbdfd820"
+    "previous": "5e1c8d94ff7f8bda2afd1b38e10180c3cb58f579ab7b07e5242f2c0d49460fda",
+    "current": "5e1c8d94ff7f8bda2afd1b38e10180c3cb58f579ab7b07e5242f2c0d49460fda"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -13,6 +13,10 @@
     "acrobat": {
       "codepoint": 61696,
       "source": "./src/acrobat.svg"
+    },
+    "alipay": {
+      "codepoint": 61806,
+      "source": "./src/alipay.svg"
     },
     "amazon": {
       "codepoint": 61697,
@@ -405,6 +409,10 @@
     "vk": {
       "codepoint": 61786,
       "source": "./src/vk.svg"
+    },
+    "wechat": {
+      "codepoint": 61807,
+      "source": "./src/wechat.svg"
     },
     "weibo": {
       "codepoint": 61787,

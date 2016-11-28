@@ -144,6 +144,8 @@ a.zocial {
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
+.zocial.alipay,
+.zocial.wechat,
 .zocial.wikipedia,
 .zocial.www {
 	border: 1px solid #aaa;
@@ -197,6 +199,10 @@ a.zocial {
 .zocial.viadeo:hover,
 .zocial.weibo:focus,
 .zocial.weibo:hover,
+.zocial.alipay:focus,
+.zocial.alipay:hover,
+.zocial.wechat:focus,
+.zocial.wechat:hover,
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
 .zocial.www:focus,
@@ -233,6 +239,8 @@ a.zocial {
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
+.zocial.alipay:active,
+.zocial.wechat:active,
 .zocial.wikipedia:active,
 .zocial.www:active {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
@@ -270,6 +278,8 @@ a.zocial {
 .zocial.statusnet:before {color: #fff;}
 .zocial.viadeo:before {color: #f59b20;}
 .zocial.weibo:before {color: #e6162d;}
+.zocial.alipay:before {color: #ffffff;}
+.zocial.wechat:before {color: #ffffff;}
 .zocial.houzz:before {color: #ffffff;}
 .zocial.slack:before {color: #fff;}
 
@@ -373,6 +383,8 @@ a.zocial {
 .zocial.vimeo {background-color: #00a2cd;}
 .zocial.vk {background-color: #45688E;}
 .zocial.weibo {background-color: #faf6f1; color: #000;}
+.zocial.alipay {background-color: #fff; color: #000;}
+.zocial.wechat {background-color: #fff; color: #000;}
 .zocial.wikipedia {background-color: #fff; color: #000;}
 .zocial.windows {background-color: #0052a4; color: #fff;}
 .zocial.wordpress {background-color: #464646;}
