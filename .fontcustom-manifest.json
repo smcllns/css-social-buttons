@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5e1c8d94ff7f8bda2afd1b38e10180c3cb58f579ab7b07e5242f2c0d49460fda",
-    "current": "5e1c8d94ff7f8bda2afd1b38e10180c3cb58f579ab7b07e5242f2c0d49460fda"
+    "previous": "2b9b091af1c6220fa6d1098bc846a0b19ccdb4fa45ef1163ddb41c7e42840ad3",
+    "current": "2b9b091af1c6220fa6d1098bc846a0b19ccdb4fa45ef1163ddb41c7e42840ad3"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -173,6 +173,10 @@
     "github": {
       "codepoint": 61732,
       "source": "./src/github.svg"
+    },
+    "gitlab": {
+      "codepoint": 61808,
+      "source": "./src/gitlab.svg"
     },
     "gmail": {
       "codepoint": 61733,
