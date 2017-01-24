@@ -56,3 +56,5 @@ https://cdnjs.com/libraries/css-social-buttons
 ## License
 
 Under [MIT License](http://opensource.org/licenses/mit-license.php)
+
+The GitLab logo is derived from [this](https://gitlab.com/gitlab-com/gitlab-artwork/blob/a3aaa39c184e49bb3a0ba0d8be74718b3d5b887b/logo/logo-square.svg) which is released under CC BY-NC-SA 4.0.

@@ -7,6 +7,8 @@
 	License: http://opensource.org/licenses/mit-license.php
 
 	You are free to use and modify, as long as you keep this license comment intact or link back to zocial.smcllns.com on your site.
+
+  The GitLab logo is derived from https://gitlab.com/gitlab-com/gitlab-artwork/blob/a3aaa39c184e49bb3a0ba0d8be74718b3d5b887b/logo/logo-square.svg which is released under CC BY-NC-SA 4.0.
 */
 
 
@@ -131,6 +133,7 @@ a.zocial {
 .zocial.email,
 .zocial.eventful,
 .zocial.github,
+.zocial.gitlab,
 .zocial.gmail,
 .zocial.instapaper,
 .zocial.itunes,
@@ -172,6 +175,8 @@ a.zocial {
 .zocial.eventful:hover,
 .zocial.github:focus,
 .zocial.github:hover,
+.zocial.gitlab:focus,
+.zocial.gitlab:hover,
 .zocial.gmail:focus,
 .zocial.gmail:hover,
 .zocial.instapaper:focus,
@@ -217,6 +222,11 @@ a.zocial {
 	background-image: linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 }
 
+.zocial.gitlab:focus,
+.zocial.gitlab:hover {
+  color: #d3371e;
+}
+
 /* :active adjustments for light background buttons */
 
 .zocial.acrobat:active,
@@ -226,6 +236,7 @@ a.zocial {
 .zocial.email:active,
 .zocial.eventful:active,
 .zocial.github:active,
+.zocial.gitlab:active,
 .zocial.gmail:active,
 .zocial.instapaper:active,
 .zocial.itunes:active,
@@ -326,6 +337,7 @@ a.zocial {
 .zocial.forrst {background-color: #1e360d;}
 .zocial.foursquare {background-color: #44a8e0;}
 .zocial.github {background-color: #fbfbfb; color: #050505;}
+.zocial.gitlab {background-color: #fff; color: #e14329;}
 .zocial.gmail {background-color: #efefef; color: #222;}
 .zocial.google {background-color: #4e6cf7;}
 .zocial.googleplay {background-color: #000;}

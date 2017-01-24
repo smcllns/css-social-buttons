@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <title>GitLab logo</title>
+  <desc>Derived from GitLab Logo (square) released under CC BY-NC-SA 4.0 (https://gitlab.com/gitlab-com/gitlab-artwork/blob/a3aaa39c184e49bb3a0ba0d8be74718b3d5b887b/logo/logo-square.svg)</desc>
+  <path d="M95.633 20.826c-3.762 0-7.523 2.164-8.928 6.488L32.088 195.41H159.18L104.563 27.314c-1.406-4.324-5.169-6.488-8.93-6.488zM159.18 195.41v.002H32.088L4.529 280.225a18.776 18.776 0 0 0 6.823 20.992l238.513 173.289 238.512-173.29a18.776 18.776 0 0 0 6.822-20.991l-27.558-84.813H340.549v-.002h-181.37zm181.369 0H467.64L413.023 27.314c-2.809-8.649-15.044-8.649-17.855 0l-54.62 168.096z" fill="#000" fill-rule="evenodd"/>
+</svg>
