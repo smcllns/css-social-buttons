@@ -147,12 +147,8 @@ a.zocial {
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
-<<<<<<< HEAD
-.zocial.wikipedia {
-=======
 .zocial.wikipedia,
 .zocial.www {
->>>>>>> upstream/master
 	border: 1px solid #aaa;
 	border-color: rgba(0,0,0,0.3);
 	border-bottom-color: #777;
@@ -208,13 +204,9 @@ a.zocial {
 .zocial.weibo:hover,
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
-<<<<<<< HEAD
-.zocial.houzz:focus, 
-=======
 .zocial.www:focus,
 .zocial.www:hover,
 .zocial.houzz:focus,
->>>>>>> upstream/master
 .zocial.houzz:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -252,12 +244,8 @@ a.zocial {
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
-<<<<<<< HEAD
-.zocial.wikipedia:active {
-=======
 .zocial.wikipedia:active,
 .zocial.www:active {
->>>>>>> upstream/master
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
