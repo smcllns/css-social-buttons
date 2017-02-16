@@ -5,8 +5,10 @@
 	http://zocial.smcllns.com
 	by Sam Collins (@smcllns)
 	License: http://opensource.org/licenses/mit-license.php
-	
+
 	You are free to use and modify, as long as you keep this license comment intact or link back to zocial.smcllns.com on your site.
+
+  The GitLab logo is derived from https://gitlab.com/gitlab-com/gitlab-artwork/blob/a3aaa39c184e49bb3a0ba0d8be74718b3d5b887b/logo/logo-square.svg which is released under CC BY-NC-SA 4.0.
 */
 
 
@@ -30,13 +32,13 @@ a.zocial {
 	text-decoration: none;
 	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
 	white-space: nowrap;
-	
+
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	user-select: none;
-	
+
 	position: relative;
-	
+
 	-moz-border-radius: .3em;
 	-webkit-border-radius: .3em;
 	border-radius: .3em;
@@ -54,11 +56,11 @@ a.zocial {
 	text-align: center;
 	text-decoration: none;
 	text-transform: none;
-	
+
 	-moz-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	-webkit-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
 	box-shadow: 0.075em 0 0 rgba(255,255,255,0.25);
-	
+
 	-moz-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
@@ -88,7 +90,7 @@ a.zocial {
 	padding: 0;
 	width: 2em;
 	height: 2em;
-	
+
 	box-shadow: none;
 	border: none;
 }
@@ -131,6 +133,7 @@ a.zocial {
 .zocial.email,
 .zocial.eventful,
 .zocial.github,
+.zocial.gitlab,
 .zocial.gmail,
 .zocial.instapaper,
 .zocial.itunes,
@@ -144,7 +147,12 @@ a.zocial {
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
+<<<<<<< HEAD
 .zocial.wikipedia {
+=======
+.zocial.wikipedia,
+.zocial.www {
+>>>>>>> upstream/master
 	border: 1px solid #aaa;
 	border-color: rgba(0,0,0,0.3);
 	border-bottom-color: #777;
@@ -169,6 +177,8 @@ a.zocial {
 .zocial.eventful:hover,
 .zocial.github:focus,
 .zocial.github:hover,
+.zocial.gitlab:focus,
+.zocial.gitlab:hover,
 .zocial.gmail:focus,
 .zocial.gmail:hover,
 .zocial.instapaper:focus,
@@ -198,7 +208,13 @@ a.zocial {
 .zocial.weibo:hover,
 .zocial.wikipedia:focus,
 .zocial.wikipedia:hover,
+<<<<<<< HEAD
 .zocial.houzz:focus, 
+=======
+.zocial.www:focus,
+.zocial.www:hover,
+.zocial.houzz:focus,
+>>>>>>> upstream/master
 .zocial.houzz:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -208,14 +224,21 @@ a.zocial {
 	background-image: linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 }
 
+.zocial.gitlab:focus,
+.zocial.gitlab:hover {
+  color: #d3371e;
+}
+
 /* :active adjustments for light background buttons */
 
 .zocial.acrobat:active,
+.zocial.askfm:active,
 .zocial.bitcoin:active,
 .zocial.dropbox:active,
 .zocial.email:active,
 .zocial.eventful:active,
 .zocial.github:active,
+.zocial.gitlab:active,
 .zocial.gmail:active,
 .zocial.instapaper:active,
 .zocial.itunes:active,
@@ -229,7 +252,12 @@ a.zocial {
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
+<<<<<<< HEAD
 .zocial.wikipedia:active {
+=======
+.zocial.wikipedia:active,
+.zocial.www:active {
+>>>>>>> upstream/master
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
 	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
 	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
@@ -244,6 +272,7 @@ a.zocial {
 /* Button color */
 .zocial.acrobat:before {color: #FB0000;}
 .zocial.bitcoin:before {color: #f7931a;}
+.zocial.deviantart:before {color: #05cc47;}
 .zocial.dropbox:before {color: #1f75cc;}
 .zocial.drupal:before {color: #fff;}
 .zocial.email:before {color: #312c2a;}
@@ -276,6 +305,8 @@ a.zocial {
 .zocial.aol {background-color: #f00;}
 .zocial.appnet {background-color: #3178bd;}
 .zocial.appstore {background-color: #000;}
+.zocial.askfm {background-color: #fd6547;}
+.zocial.betaseries {background-color: #0099e1;}
 .zocial.bitbucket {background-color: #205081;}
 .zocial.bitcoin {background-color: #efefef; color: #4d4d4d;}
 .zocial.blogger {background-color: #ee5a22;}
@@ -287,12 +318,15 @@ a.zocial {
 .zocial.cloudapp {background-color: #fff; color: #312c2a;}
 .zocial.creativecommons {background-color: #000;}
 .zocial.delicious {background-color: #3271cb;}
+.zocial.deviantart {background-color: #475c4d;}
 .zocial.digg {background-color: #164673;}
+.zocial.discordapp {background-color: #7289da; color: #fff;}
 .zocial.disqus {background-color: #5d8aad;}
 .zocial.dribbble {background-color: #ea4c89;}
 .zocial.dropbox {background-color: #fff; color: #312c2a;}
 .zocial.drupal {background-color: #0077c0; color: #fff;}
 .zocial.dwolla {background-color: #e88c02;}
+.zocial.joinme {background-color: #FF8E00;}
 .zocial.email {background-color: #f0f0eb; color: #312c2a;}
 .zocial.eventasaurus {background-color: #192931; color: #fff;}
 .zocial.eventbrite {background-color: #ff5616;}
@@ -305,6 +339,7 @@ a.zocial {
 .zocial.forrst {background-color: #1e360d;}
 .zocial.foursquare {background-color: #44a8e0;}
 .zocial.github {background-color: #fbfbfb; color: #050505;}
+.zocial.gitlab {background-color: #fff; color: #e14329;}
 .zocial.gmail {background-color: #efefef; color: #222;}
 .zocial.google {background-color: #4e6cf7;}
 .zocial.googleplay {background-color: #000;}
@@ -365,6 +400,7 @@ a.zocial {
 .zocial.wikipedia {background-color: #fff; color: #000;}
 .zocial.windows {background-color: #0052a4; color: #fff;}
 .zocial.wordpress {background-color: #464646;}
+.zocial.www {background-color: #fff; color: #000;}
 .zocial.xing {background-color: #0a5d5e;}
 .zocial.yahoo {background-color: #a200c2;}
 .zocial.ycombinator {background-color: #ff6600;}

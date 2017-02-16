@@ -1,4 +1,17 @@
 
+1.3.0 / 2017-01-25
+==================
+
+  * NEW: GitLab icon
+  * NEW: discordapp icon
+  * NEW: ASKfm icon
+  * NEW: WWW icon for simple URL
+  * NEW: DeviantArt icon
+  * NEW: BetaSeries icon
+  * NEW: Slack icon
+  * NEW: Style Houzz Icon
+  * FIX: missing background colors
+
 1.2.0 / 2016-01-03
 ==================
 
