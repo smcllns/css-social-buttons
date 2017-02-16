@@ -207,7 +207,9 @@ a.zocial {
 .zocial.www:focus,
 .zocial.www:hover,
 .zocial.houzz:focus,
-.zocial.houzz:hover {
+.zocial.houzz:hover,
+.zocial.pandora:focus,
+.zocial.pandora:hover {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15)));
 	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
 	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15));
@@ -283,6 +285,7 @@ a.zocial {
 .zocial.weibo:before {color: #e6162d;}
 .zocial.houzz:before {color: #ffffff;}
 .zocial.slack:before {color: #fff;}
+.zocial.pandora:before {color: #fff;}
 
 /* Button background and text color */
 
@@ -396,6 +399,7 @@ a.zocial {
 .zocial.youtube {background-color: #f00;}
 .zocial.houzz {background-color: #9ac641; color: #fff;}
 .zocial.slack {background-color: #3eb890; color: #fff;}
+.zocial.pandora {background-color: #4e9cca; color: #fff;}
 
 /*
 The Miscellaneous Buttons

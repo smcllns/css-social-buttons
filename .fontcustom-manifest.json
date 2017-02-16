@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "2223aace7d04688fc22003f869c75478751b3c9ece4b0fc0661d901ac1b49fbd",
-    "current": "2223aace7d04688fc22003f869c75478751b3c9ece4b0fc0661d901ac1b49fbd"
+    "previous": "059ac827c62073b7c6c3c184af81c92765f0115ae6c8940d3ff665055685e52c",
+    "current": "059ac827c62073b7c6c3c184af81c92765f0115ae6c8940d3ff665055685e52c"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -285,6 +285,10 @@
     "opentable": {
       "codepoint": 61764,
       "source": "./src/opentable.svg"
+    },
+    "pandora": {
+      "codepoint": 61806,
+      "source": "./src/pandora.svg"
     },
     "paypal": {
       "codepoint": 61765,
