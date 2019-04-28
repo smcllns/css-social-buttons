@@ -1,42 +1,42 @@
-# Zocial CSS social buttons
+# Zocial CSS Social Buttons
 
-I basically rewrote this entire set so they are full vector buttons, meaning:
+The idea is to create beautiful social buttons using only CSS, rendering popular social icons as a font, and requiring minimal extra markup.
 
-- @font-face icons
-- custom font file for all social icons
-- icon font use private unicode spaces for accessibility
-- em sizing based on button font-size
-- support for about 83 different services
-- buttons and icons supported
-- no raster images (sweet)
-- works splendidly on any browser supporting @font-face
-- CSS3 degrades gracefully in IE8 and below etc.
-- also includes generic icon-less primary and secondary buttons
+## Benefits
 
-*[Demo](https://smcllns.github.io/css-social-buttons/)*
+- Buttons always look sharp at any size and screen resolution.
+- Easily customize the size and call to action of the buttons.
+- Easily localize button text to other languages.
 
-## How to use these buttons
+## Usage
+
+1. Can be any element e.g. `a`, `div`, `button` etc.
+2. Add class of `.zocial` and add class for name of service e.g. `.dropbox`, `.twitter`, `.github`
+3. Optional: Add a class of icon to display as icon instead of button
+4. Optional: Change font size of the element to resize button
+
+There's also a LESS version from @gustavohenke [here](https://github.com/gustavohenke/zocial-less)
+
+## Examples:
 
 ```html
-<button class="zocial facebook">Button label here</button>
+<button class="zocial facebook">Sign in with Facebook</button>
 ```
 
 or
 
 ```html
-<a class="zocial twitter">Button label</a>
+<a class="zocial twitter">Follow Me</a>
 ```
 
-- Can be any element e.g. `a`, `div`, `button` etc.
-- Add class of `.zocial`
-- Add class for name of service e.g. `.dropbox`, `.twitter`, `.github`
-- Done :-)
+## Demo
+[https://smcllns.github.io/css-social-buttons/](https://smcllns.github.io/css-social-buttons/)
 
-Check out [zocial.smcllns.com](http://zocial.smcllns.com) for code examples.
+## Browser Support
 
-There's also a LESS version from @gustavohenke [here](https://github.com/gustavohenke/zocial-less)
-
-Problems, questions or requests to [@smcllns](http://twitter.com/smcllns)
+- custom font file for all social icons works well in any browser supporting @font-face
+- icon font use private unicode spaces for accessibility
+- CSS3 degrades gracefully in IE8 and below
 
 ## CDN
 
