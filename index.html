@@ -335,6 +335,7 @@
 <p>Under MIT License. <a href="https://github.com/smcllns/css-social-buttons">Zocial on Github.</a></p>
 
 <script type="text/javascript">
+  // interactive demo button
   var sizeInput = document.getElementById('font-size-range');
   var sizeDisplay = document.getElementById('font-size-display');
   var labelInput = document.getElementById('label-input');
@@ -360,6 +361,18 @@
       showcaseButton.classList.toggle('icon');
     })
   }
+
+  // interactive button list
+  var buttons = document.getElementById('samples').querySelectorAll('.zocial');
+  for (var i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener('click', function(e) {
+      e.preventDefault();
+      this.classList.toggle('icon');
+    })
+  }
+
+
+
 </script>
 
 </body>

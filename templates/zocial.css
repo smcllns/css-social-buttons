@@ -32,6 +32,7 @@ a.zocial {
 	text-decoration: none;
 	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
 	white-space: nowrap;
+	vertical-align: middle;
 
 	-moz-user-select: none;
 	-webkit-user-select: none;
