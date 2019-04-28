@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "059ac827c62073b7c6c3c184af81c92765f0115ae6c8940d3ff665055685e52c",
-    "current": "059ac827c62073b7c6c3c184af81c92765f0115ae6c8940d3ff665055685e52c"
+    "previous": "e917b0d2afe7f0e6263faf9c8a168855584a121161c902c816fb7b4701405b14",
+    "current": "e917b0d2afe7f0e6263faf9c8a168855584a121161c902c816fb7b4701405b14"
   },
   "fonts": [
     "./css/zocial.ttf",
     "./css/zocial.svg",
     "./css/zocial.woff",
-    "./css/zocial.eot"
+    "./css/zocial.eot",
+    "./css/zocial.woff2"
   ],
   "glyphs": {
     "acrobat": {
@@ -270,6 +271,10 @@
       "codepoint": 61760,
       "source": "./src/meetup.svg"
     },
+    "messenger": {
+      "codepoint": 61807,
+      "source": "./src/messenger.svg"
+    },
     "myspace": {
       "codepoint": 61761,
       "source": "./src/myspace.svg"
@@ -458,6 +463,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".zocial.{{glyph}}",
     "debug": false,
     "font_ascent": 448,
