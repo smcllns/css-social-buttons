@@ -12,7 +12,6 @@ git rebase master // bring gh-pages up to date with master
 
 - /css
 - .gitignore
-- CNAME
 - demo.html
 - README.md
 
