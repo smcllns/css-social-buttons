@@ -144,6 +144,7 @@ a.zocial {
 .zocial.pocket,
 .zocial.posterous,
 .zocial.reddit,
+.zocial.salesforce,
 .zocial.secondary,
 .zocial.stackoverflow,
 .zocial.viadeo,
@@ -194,6 +195,8 @@ a.zocial {
 .zocial.posterous:hover,
 .zocial.reddit:focus,
 .zocial.reddit:hover,
+.zocial.salesforce:focus,
+.zocial.salesforce:hover,
 .zocial.secondary:focus,
 .zocial.secondary:hover,
 .zocial.stackoverflow:focus,
@@ -243,6 +246,7 @@ a.zocial {
 .zocial.pocket:active,
 .zocial.posterous:active,
 .zocial.reddit:active,
+.zocial.salesforce:active,
 .zocial.secondary:active,
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
@@ -279,6 +283,7 @@ a.zocial {
 .zocial.pocket:before {color:#ee4056;}
 .zocial.persona:before {color:#fff;}
 .zocial.reddit:before {color: red;}
+.zocial.salesforce:before {color: #00a1e0;}
 .zocial.scribd:before {color: #00d5ea;}
 .zocial.stackoverflow:before {color: #ff7a15;}
 .zocial.statusnet:before {color: #fff;}
@@ -371,6 +376,7 @@ a.zocial {
 .zocial.print {background-color: #f0f0eb; color: #222; text-shadow: 0 1px 0 rgba(255,255,255,0.8);}
 .zocial.quora {background-color: #a82400;}
 .zocial.reddit {background-color: #fff; color: #222;}
+.zocial.salesforce {background-color: #fff; color: #000;}
 .zocial.rss {background-color: #ff7f25;}
 .zocial.scribd {background-color: #231c1a;}
 .zocial.skype {background-color: #00a2ed;}

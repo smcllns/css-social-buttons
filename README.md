@@ -45,13 +45,15 @@ https://cdnjs.com/libraries/css-social-buttons
 
 ## How to contribute
 
-1. Install [Font Custom](https://github.com/FontCustom/fontcustom)
+1. Install [Font Custom](https://github.com/FontCustom/fontcustom) (*)
 2. Add or update the icon .svg in the `src/` folder.
 3. Set the button and font color in `templates/zocial.css` file.
 4. Run `fontcustom compile`
 5. Update the demo page (`index.html`) with both the button and icon.
 6. Test rendering. If broken go to step 2.
 7. Send pull-request !
+
+(*) if you are having difficulting installing Font Custom, you can use a docker container. Instead of running #4, run `docker run -v ${PWD}:/project  drichner/fontcustom compile` from the root of this directory.
 
 ## License
 

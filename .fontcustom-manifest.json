@@ -1,14 +1,13 @@
 {
   "checksum": {
-    "previous": "e29477d791915347e3972b017c4157b6cb80af31d0f648e5cc2b1089d92e8dfc",
-    "current": "e29477d791915347e3972b017c4157b6cb80af31d0f648e5cc2b1089d92e8dfc"
+    "previous": "1b6f02da79557c45c06249000018795c362b31f80a42f933ba1ca0e29d6150b6",
+    "current": "1b6f02da79557c45c06249000018795c362b31f80a42f933ba1ca0e29d6150b6"
   },
   "fonts": [
     "./css/zocial.ttf",
     "./css/zocial.svg",
     "./css/zocial.woff",
-    "./css/zocial.eot",
-    "./css/zocial.woff2"
+    "./css/zocial.eot"
   ],
   "glyphs": {
     "acrobat": {
@@ -347,6 +346,10 @@
       "codepoint": 61777,
       "source": "./src/rss.svg"
     },
+    "salesforce": {
+      "codepoint": 61808,
+      "source": "./src/salesforce.svg"
+    },
     "scribd": {
       "codepoint": 61778,
       "source": "./src/scribd.svg"
@@ -463,8 +466,6 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
-    "copyright": "",
-    "css3": false,
     "css_selector": ".zocial.{{glyph}}",
     "debug": false,
     "font_ascent": 448,
