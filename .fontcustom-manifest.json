@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "1b6f02da79557c45c06249000018795c362b31f80a42f933ba1ca0e29d6150b6",
-    "current": "1b6f02da79557c45c06249000018795c362b31f80a42f933ba1ca0e29d6150b6"
+    "previous": "057a0b6faa0d057eabf4ee96817998256f00264d3c99c9b101e3f032ec2e85e6",
+    "current": "057a0b6faa0d057eabf4ee96817998256f00264d3c99c9b101e3f032ec2e85e6"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -25,6 +25,10 @@
     "angellist": {
       "codepoint": 61699,
       "source": "./src/angellist.svg"
+    },
+    "angieslist": {
+      "codepoint": 61809,
+      "source": "./src/angieslist.svg"
     },
     "aol": {
       "codepoint": 61700,
@@ -202,6 +206,10 @@
       "codepoint": 61743,
       "source": "./src/guest.svg"
     },
+    "homeadvisor": {
+      "codepoint": 61810,
+      "source": "./src/homeadvisor.svg"
+    },
     "houzz": {
       "codepoint": 61744,
       "source": "./src/houzz.svg"
@@ -366,6 +374,10 @@
       "codepoint": 61781,
       "source": "./src/smashing.svg"
     },
+    "snapchat": {
+      "codepoint": 61811,
+      "source": "./src/snapchat.svg"
+    },
     "songkick": {
       "codepoint": 61782,
       "source": "./src/songkick.svg"
@@ -397,6 +409,10 @@
     "stumbleupon": {
       "codepoint": 61789,
       "source": "./src/stumbleupon.svg"
+    },
+    "tiktok": {
+      "codepoint": 61812,
+      "source": "./src/tiktok.svg"
     },
     "tumblr": {
       "codepoint": 61790,

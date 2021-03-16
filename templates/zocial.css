@@ -146,6 +146,7 @@ a.zocial {
 .zocial.reddit,
 .zocial.salesforce,
 .zocial.secondary,
+.zocial.snapchat,
 .zocial.stackoverflow,
 .zocial.viadeo,
 .zocial.weibo,
@@ -199,6 +200,8 @@ a.zocial {
 .zocial.salesforce:hover,
 .zocial.secondary:focus,
 .zocial.secondary:hover,
+.zocial.snapchat:focus,
+.zocial.snapchat:hover,
 .zocial.stackoverflow:focus,
 .zocial.stackoverflow:hover,
 .zocial.twitter:focus,
@@ -248,6 +251,7 @@ a.zocial {
 .zocial.reddit:active,
 .zocial.salesforce:active,
 .zocial.secondary:active,
+.zocial.snapchat:active,
 .zocial.stackoverflow:active,
 .zocial.viadeo:active,
 .zocial.weibo:active,
@@ -299,6 +303,7 @@ a.zocial {
 .zocial.amazon {background-color: #ffad1d; color: #030037; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.android {background-color: #a4c639;}
 .zocial.angellist {background-color: #000;}
+.zocial.angieslist {background-color: #196222; color: #fff;}
 .zocial.aol {background-color: #f00;}
 .zocial.appnet {background-color: #3178bd;}
 .zocial.appstore {background-color: #000;}
@@ -344,6 +349,8 @@ a.zocial {
 .zocial.gowalla {background-color: #ff720a;}
 .zocial.grooveshark {background-color: #111; color:#eee;}
 .zocial.guest {background-color: #1b4d6d;}
+.zocial.homeadvisor {background-color: #070441; color: #fff;}
+.zocial.houzz {background-color: #9ac641; color: #fff;}
 .zocial.html5 {background-color: #ff3617;}
 .zocial.ie {background-color: #00a1d9;}
 .zocial.instapaper {background-color: #eee; color: #222;}
@@ -364,6 +371,7 @@ a.zocial {
 .zocial.ninetyninedesigns {background-color: #fff; color: #072243;}
 .zocial.openid {background-color: #f5f5f5; color: #333;}
 .zocial.opentable {background-color: #990000;}
+.zocial.pandora {background-color: #4e9cca; color: #fff;}
 .zocial.paypal {background-color: #fff; color: #32689a; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.persona {background-color: #1258a1; color: #fff;}
 .zocial.pinboard {background-color: blue;}
@@ -380,7 +388,9 @@ a.zocial {
 .zocial.rss {background-color: #ff7f25;}
 .zocial.scribd {background-color: #231c1a;}
 .zocial.skype {background-color: #00a2ed;}
+.zocial.slack {background-color: #3eb890; color: #fff;}
 .zocial.smashing {background-color: #ff4f27;}
+.zocial.snapchat {background-color: #fff; color: #000;}
 .zocial.songkick {background-color: #ff0050;}
 .zocial.soundcloud {background-color: #ff4500;}
 .zocial.spotify {background-color: #60af00;}
@@ -389,6 +399,7 @@ a.zocial {
 .zocial.steam {background-color: #000;}
 .zocial.stripe {background-color: #2f7ed6;}
 .zocial.stumbleupon {background-color: #eb4924;}
+.zocial.tiktok {background-color: #000; color: #fff; }
 .zocial.tumblr {background-color: #374a61;}
 .zocial.twitter {background-color: #46c0fb;}
 .zocial.twitch {background-color: #6441A5;}
@@ -405,9 +416,6 @@ a.zocial {
 .zocial.ycombinator {background-color: #ff6600;}
 .zocial.yelp {background-color: #e60010;}
 .zocial.youtube {background-color: #f00;}
-.zocial.houzz {background-color: #9ac641; color: #fff;}
-.zocial.slack {background-color: #3eb890; color: #fff;}
-.zocial.pandora {background-color: #4e9cca; color: #fff;}
 
 /*
 The Miscellaneous Buttons
