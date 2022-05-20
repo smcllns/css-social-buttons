@@ -132,7 +132,6 @@ a.zocial {
 .zocial.cloudapp,
 .zocial.dropbox,
 .zocial.email,
-.zocial.eventful,
 .zocial.github,
 .zocial.gitlab,
 .zocial.gmail,
@@ -140,9 +139,7 @@ a.zocial {
 .zocial.itunes,
 .zocial.ninetyninedesigns,
 .zocial.openid,
-.zocial.plancast,
 .zocial.pocket,
-.zocial.posterous,
 .zocial.reddit,
 .zocial.salesforce,
 .zocial.secondary,
@@ -172,8 +169,6 @@ a.zocial {
 .zocial.dropbox:hover,
 .zocial.email:focus,
 .zocial.email:hover,
-.zocial.eventful:focus,
-.zocial.eventful:hover,
 .zocial.github:focus,
 .zocial.github:hover,
 .zocial.gitlab:focus,
@@ -188,12 +183,8 @@ a.zocial {
 .zocial.ninetyninedesigns:hover,
 .zocial.openid:focus,
 .zocial.openid:hover,
-.zocial.plancast:focus,
-.zocial.plancast:hover,
 .zocial.pocket:focus,
 .zocial.pocket:hover,
-.zocial.posterous:focus,
-.zocial.posterous:hover,
 .zocial.reddit:focus,
 .zocial.reddit:hover,
 .zocial.salesforce:focus,
@@ -237,7 +228,6 @@ a.zocial {
 .zocial.bitcoin:active,
 .zocial.dropbox:active,
 .zocial.email:active,
-.zocial.eventful:active,
 .zocial.github:active,
 .zocial.gitlab:active,
 .zocial.gmail:active,
@@ -245,9 +235,7 @@ a.zocial {
 .zocial.itunes:active,
 .zocial.ninetyninedesigns:active,
 .zocial.openid:active,
-.zocial.plancast:active,
 .zocial.pocket:active,
-.zocial.posterous:active,
 .zocial.reddit:active,
 .zocial.salesforce:active,
 .zocial.secondary:active,
@@ -275,13 +263,9 @@ a.zocial {
 .zocial.dropbox:before {color: #1f75cc;}
 .zocial.drupal:before {color: #fff;}
 .zocial.email:before {color: #312c2a;}
-.zocial.eventasaurus:before {color: #9de428;}
-.zocial.eventful:before {color: #0066CC;}
 .zocial.fivehundredpx:before {color: #29b6ff;}
-.zocial.forrst:before {color: #50894f;}
 .zocial.gmail:before {color: #f00;}
 .zocial.itunes:before {color: #1a6dd2;}
-.zocial.lego:before {color:#fff900;}
 .zocial.ninetyninedesigns:before {color: #f50;}
 .zocial.openid:before {color: #ff921d;}
 .zocial.pocket:before {color:#ee4056;}
@@ -290,7 +274,6 @@ a.zocial {
 .zocial.salesforce:before {color: #00a1e0;}
 .zocial.scribd:before {color: #00d5ea;}
 .zocial.stackoverflow:before {color: #ff7a15;}
-.zocial.statusnet:before {color: #fff;}
 .zocial.viadeo:before {color: #f59b20;}
 .zocial.weibo:before {color: #e6162d;}
 .zocial.houzz:before {color: #ffffff;}
@@ -303,12 +286,10 @@ a.zocial {
 .zocial.amazon {background-color: #ffad1d; color: #030037; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.android {background-color: #a4c639;}
 .zocial.angellist {background-color: #000;}
+.zocial.angi {background-color: #fff; color: #ff6153; text-shadow: 0 1px 0 rgba(255,255,255,0.5);}
 .zocial.angieslist {background-color: #196222; color: #fff;}
-.zocial.aol {background-color: #f00;}
-.zocial.appnet {background-color: #3178bd;}
 .zocial.appstore {background-color: #000;}
 .zocial.askfm {background-color: #fd6547;}
-.zocial.betaseries {background-color: #0099e1;}
 .zocial.bitbucket {background-color: #205081;}
 .zocial.bitcoin {background-color: #efefef; color: #4d4d4d;}
 .zocial.blogger {background-color: #ee5a22;}
@@ -316,10 +297,8 @@ a.zocial {
 .zocial.call {background-color: #008000;}
 .zocial.cal {background-color: #d63538;}
 .zocial.cart {background-color: #333;}
-.zocial.chrome {background-color: #006cd4;}
 .zocial.cloudapp {background-color: #fff; color: #312c2a;}
 .zocial.creativecommons {background-color: #000;}
-.zocial.delicious {background-color: #3271cb;}
 .zocial.deviantart {background-color: #475c4d;}
 .zocial.digg {background-color: #164673;}
 .zocial.discordapp {background-color: #7289da; color: #fff;}
@@ -328,43 +307,30 @@ a.zocial {
 .zocial.dropbox {background-color: #fff; color: #312c2a;}
 .zocial.drupal {background-color: #0077c0; color: #fff;}
 .zocial.dwolla {background-color: #e88c02;}
-.zocial.joinme {background-color: #FF8E00;}
 .zocial.email {background-color: #f0f0eb; color: #312c2a;}
-.zocial.eventasaurus {background-color: #192931; color: #fff;}
 .zocial.eventbrite {background-color: #ff5616;}
-.zocial.eventful {background-color: #fff; color: #47ab15;}
 .zocial.evernote {background-color: #6bb130; color: #fff;}
 .zocial.facebook {background-color: #4863ae;}
 .zocial.fivehundredpx {background-color: #333;}
 .zocial.flattr {background-color: #8aba42;}
 .zocial.flickr {background-color: #ff0084;}
-.zocial.forrst {background-color: #1e360d;}
 .zocial.foursquare {background-color: #44a8e0;}
 .zocial.github {background-color: #fbfbfb; color: #050505;}
 .zocial.gitlab {background-color: #fff; color: #e14329;}
 .zocial.gmail {background-color: #efefef; color: #222;}
 .zocial.google {background-color: #4e6cf7;}
 .zocial.googleplay {background-color: #000;}
-.zocial.googleplus {background-color: #dd4b39;}
-.zocial.gowalla {background-color: #ff720a;}
-.zocial.grooveshark {background-color: #111; color:#eee;}
 .zocial.guest {background-color: #1b4d6d;}
 .zocial.homeadvisor {background-color: #070441; color: #fff;}
 .zocial.houzz {background-color: #9ac641; color: #fff;}
 .zocial.html5 {background-color: #ff3617;}
-.zocial.ie {background-color: #00a1d9;}
 .zocial.instapaper {background-color: #eee; color: #222;}
 .zocial.instagram {background-color: #3f729b;}
 .zocial.intensedebate {background-color: #0099e1;}
-.zocial.klout {background-color: #e34a25;}
 .zocial.itunes {background-color: #efefeb; color: #312c2a;}
-.zocial.lanyrd {background-color: #2e6ac2;}
 .zocial.lastfm {background-color: #dc1a23;}
-.zocial.lego {background-color: #fb0000;}
 .zocial.linkedin {background-color: #0083a8;}
 .zocial.lkdto {background-color: #7c786f;}
-.zocial.logmein {background-color: #000;}
-.zocial.macstore {background-color: #007dcb}
 .zocial.meetup {background-color: #ff0026;}
 .zocial.messenger {background-color: #0078FF;}
 .zocial.myspace {background-color: #000;}
@@ -376,11 +342,8 @@ a.zocial {
 .zocial.persona {background-color: #1258a1; color: #fff;}
 .zocial.pinboard {background-color: blue;}
 .zocial.pinterest {background-color: #c91618;}
-.zocial.plancast {background-color: #e7ebed; color: #333;}
-.zocial.plurk {background-color: #cf682f;}
 .zocial.pocket {background-color: #fff; color: #777;}
 .zocial.podcast {background-color: #9365ce;}
-.zocial.posterous {background-color: #ffd959; color: #bc7134;}
 .zocial.print {background-color: #f0f0eb; color: #222; text-shadow: 0 1px 0 rgba(255,255,255,0.8);}
 .zocial.quora {background-color: #a82400;}
 .zocial.reddit {background-color: #fff; color: #222;}
@@ -395,7 +358,6 @@ a.zocial {
 .zocial.soundcloud {background-color: #ff4500;}
 .zocial.spotify {background-color: #60af00;}
 .zocial.stackoverflow {background-color: #fff; color: #555;}
-.zocial.statusnet {background-color: #829d25;}
 .zocial.steam {background-color: #000;}
 .zocial.stripe {background-color: #2f7ed6;}
 .zocial.stumbleupon {background-color: #eb4924;}
