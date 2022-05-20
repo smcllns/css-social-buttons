@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5feae2fd1acbdcbe7b7b006de62830ee422b5118c6412c9c0fe5bfc2d5d76a7b",
-    "current": "5feae2fd1acbdcbe7b7b006de62830ee422b5118c6412c9c0fe5bfc2d5d76a7b"
+    "previous": "80474e07f26b0b413ff0d5d5d25e348e6f5289b1ad5f549a52f2774f919d0155",
+    "current": "80474e07f26b0b413ff0d5d5d25e348e6f5289b1ad5f549a52f2774f919d0155"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -105,10 +105,6 @@
     "digg": {
       "codepoint": 61717,
       "source": "./src/digg.svg"
-    },
-    "discord": {
-      "codepoint": 61814,
-      "source": "./src/discord.svg"
     },
     "discordapp": {
       "codepoint": 61718,
