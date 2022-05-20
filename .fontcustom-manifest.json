@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "80474e07f26b0b413ff0d5d5d25e348e6f5289b1ad5f549a52f2774f919d0155",
-    "current": "80474e07f26b0b413ff0d5d5d25e348e6f5289b1ad5f549a52f2774f919d0155"
+    "previous": "120144303457e664ee25d87686c89df7e79bebbb3e7116e9078c0be517979ec0",
+    "current": "120144303457e664ee25d87686c89df7e79bebbb3e7116e9078c0be517979ec0"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -34,14 +34,6 @@
       "codepoint": 61809,
       "source": "./src/angieslist.svg"
     },
-    "aol": {
-      "codepoint": 61700,
-      "source": "./src/aol.svg"
-    },
-    "appnet": {
-      "codepoint": 61701,
-      "source": "./src/appnet.svg"
-    },
     "appstore": {
       "codepoint": 61702,
       "source": "./src/appstore.svg"
@@ -49,10 +41,6 @@
     "askfm": {
       "codepoint": 61703,
       "source": "./src/askfm.svg"
-    },
-    "betaseries": {
-      "codepoint": 61704,
-      "source": "./src/betaseries.svg"
     },
     "bitbucket": {
       "codepoint": 61705,
@@ -82,10 +70,6 @@
       "codepoint": 61711,
       "source": "./src/cart.svg"
     },
-    "chrome": {
-      "codepoint": 61712,
-      "source": "./src/chrome.svg"
-    },
     "cloudapp": {
       "codepoint": 61713,
       "source": "./src/cloudapp.svg"
@@ -93,10 +77,6 @@
     "creativecommons": {
       "codepoint": 61714,
       "source": "./src/creativecommons.svg"
-    },
-    "delicious": {
-      "codepoint": 61715,
-      "source": "./src/delicious.svg"
     },
     "deviantart": {
       "codepoint": 61716,
@@ -134,17 +114,9 @@
       "codepoint": 61724,
       "source": "./src/email.svg"
     },
-    "eventasaurus": {
-      "codepoint": 61725,
-      "source": "./src/eventasaurus.svg"
-    },
     "eventbrite": {
       "codepoint": 61726,
       "source": "./src/eventbrite.svg"
-    },
-    "eventful": {
-      "codepoint": 61727,
-      "source": "./src/eventful.svg"
     },
     "evernote": {
       "codepoint": 61728,
@@ -165,10 +137,6 @@
     "flickr": {
       "codepoint": 61732,
       "source": "./src/flickr.svg"
-    },
-    "forrst": {
-      "codepoint": 61733,
-      "source": "./src/forrst.svg"
     },
     "foursquare": {
       "codepoint": 61734,
@@ -194,18 +162,6 @@
       "codepoint": 61739,
       "source": "./src/googleplay.svg"
     },
-    "googleplus": {
-      "codepoint": 61740,
-      "source": "./src/googleplus.svg"
-    },
-    "gowalla": {
-      "codepoint": 61741,
-      "source": "./src/gowalla.svg"
-    },
-    "grooveshark": {
-      "codepoint": 61742,
-      "source": "./src/grooveshark.svg"
-    },
     "guest": {
       "codepoint": 61743,
       "source": "./src/guest.svg"
@@ -221,10 +177,6 @@
     "html5": {
       "codepoint": 61745,
       "source": "./src/html5.svg"
-    },
-    "ie": {
-      "codepoint": 61746,
-      "source": "./src/ie.svg"
     },
     "instagram": {
       "codepoint": 61747,
@@ -242,25 +194,9 @@
       "codepoint": 61750,
       "source": "./src/itunes.svg"
     },
-    "joinme": {
-      "codepoint": 61751,
-      "source": "./src/joinme.svg"
-    },
-    "klout": {
-      "codepoint": 61752,
-      "source": "./src/klout.svg"
-    },
-    "lanyrd": {
-      "codepoint": 61753,
-      "source": "./src/lanyrd.svg"
-    },
     "lastfm": {
       "codepoint": 61754,
       "source": "./src/lastfm.svg"
-    },
-    "lego": {
-      "codepoint": 61755,
-      "source": "./src/lego.svg"
     },
     "linkedin": {
       "codepoint": 61756,
@@ -269,14 +205,6 @@
     "lkdto": {
       "codepoint": 61757,
       "source": "./src/lkdto.svg"
-    },
-    "logmein": {
-      "codepoint": 61758,
-      "source": "./src/logmein.svg"
-    },
-    "macstore": {
-      "codepoint": 61759,
-      "source": "./src/macstore.svg"
     },
     "meetup": {
       "codepoint": 61760,
@@ -322,14 +250,6 @@
       "codepoint": 61768,
       "source": "./src/pinterest.svg"
     },
-    "plancast": {
-      "codepoint": 61769,
-      "source": "./src/plancast.svg"
-    },
-    "plurk": {
-      "codepoint": 61770,
-      "source": "./src/plurk.svg"
-    },
     "pocket": {
       "codepoint": 61771,
       "source": "./src/pocket.svg"
@@ -337,10 +257,6 @@
     "podcast": {
       "codepoint": 61772,
       "source": "./src/podcast.svg"
-    },
-    "posterous": {
-      "codepoint": 61773,
-      "source": "./src/posterous.svg"
     },
     "print": {
       "codepoint": 61774,
@@ -397,10 +313,6 @@
     "stackoverflow": {
       "codepoint": 61785,
       "source": "./src/stackoverflow.svg"
-    },
-    "statusnet": {
-      "codepoint": 61786,
-      "source": "./src/statusnet.svg"
     },
     "steam": {
       "codepoint": 61787,
