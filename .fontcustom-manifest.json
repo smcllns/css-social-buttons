@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ea24481524af339ae6e78352e78a4f9d402e408f36196622cbe185229ffdcef8",
-    "current": "ea24481524af339ae6e78352e78a4f9d402e408f36196622cbe185229ffdcef8"
+    "previous": "5feae2fd1acbdcbe7b7b006de62830ee422b5118c6412c9c0fe5bfc2d5d76a7b",
+    "current": "5feae2fd1acbdcbe7b7b006de62830ee422b5118c6412c9c0fe5bfc2d5d76a7b"
   },
   "fonts": [
     "./css/zocial.ttf",
@@ -25,6 +25,10 @@
     "angellist": {
       "codepoint": 61699,
       "source": "./src/angellist.svg"
+    },
+    "angi": {
+      "codepoint": 61813,
+      "source": "./src/angi.svg"
     },
     "angieslist": {
       "codepoint": 61809,
@@ -101,6 +105,10 @@
     "digg": {
       "codepoint": 61717,
       "source": "./src/digg.svg"
+    },
+    "discord": {
+      "codepoint": 61814,
+      "source": "./src/discord.svg"
     },
     "discordapp": {
       "codepoint": 61718,
