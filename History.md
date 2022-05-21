@@ -1,3 +1,13 @@
+# 1.6.0 / 2022-050-20
+
+- UPDATED: Angie's List > Angi, AskFM, CloudApp, Discord, Diqus, Dwolla, Eventbrite, Evernote, Facebook, Flattr, Foursquare, GitHub, Houzz, iTunes, LinkedIn, Meetup, 99designs, Opentable, PayPal, Pinterest, Quora, Reddit, Scribd, Slack, StackOverflow, Steam, Stripe, Twitter, Windows, WordPress, YouTube
+- REMOVED: AOL, App.net, Chrome, Del.icio.us, Eventasaurus, Eventful, Forrst, Google+, Gowalla, Grooveshark, Internet Explorer, JoinMe, Klout, Lanyrd, LEGO, LogMeIn, Mac App Store, Plancast, Plurk, Posterous, StatusNet
+
+# 1.5.0 / 2021-03-16
+
+- NEW Angie's List, HomeAdvisor, Snapchat, TikTok
+- UPDATED Google, Instagram, Spotify, Windows
+
 # 1.4.0 / 2020-06-27
 
 - CDNJS update to support each individual .svg logo
